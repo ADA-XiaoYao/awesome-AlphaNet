@@ -1,9 +1,15 @@
 # Awesome Alfadi [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> 一个覆盖 **计算机科学基础 → 编程语言 → 软件工程 → 人工智能 → 网络安全 → 底层原理 → 职业成长** 的全领域技术知识图谱型资源列表。  
-> 致力于为开发者、安全研究者与技术爱好者提供系统化、可持续扩展的学习与实践入口。
+**Awesome Alfadi**: A Structured Atlas for the Technical Cosmos
 
-本仓库不只是链接集合，而是面向技术宇宙的 **导航地图**。
+This repository is a curated, graph-based navigation system for the modern technologist. We map the intricate connections between foundational computer science, modern software development, advanced AI/ML, cybersecurity landscapes, low-level systems architecture, and professional growth pathways.
+
+Unlike conventional resource lists, we emphasize **knowledge connectivity**—showing not just *what* to learn, but *how* concepts interlock across domains. This is designed to be:
+- **Systematic**: Following a logical progression from fundamentals to specialization.
+- **Living**: Continuously updated and expanded by the community.
+- **Actionable**: Each resource is vetted for practical learning value.
+
+Our goal: to transform overwhelming information into a coherent, navigable landscape for developers, engineers, researchers, and lifelong learners.
 
 ---
 
