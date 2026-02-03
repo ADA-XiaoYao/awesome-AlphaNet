@@ -1,129 +1,40 @@
-贡献指南
+# Contribution Guidelines
 
-欢迎来到 Awesome Alfadi！我们正在构建一个覆盖全领域技术的知识图谱。你的贡献将使这张“地图”更加完善。
+Thank you for your interest in contributing to this project!  
+Please read the following guidelines carefully before submitting a Pull Request.
 
-在贡献之前，请确保你已经阅读并理解我们的核心理念：这是一个精选的、高质量的、结构化的资源列表，而非简单的链接集合。
+---
 
-如何贡献
+## Code of Conduct
 
-我们欢迎以下类型的贡献：
+This project follows a Contributor Code of Conduct.  
+By participating, you are expected to uphold a respectful and professional environment for everyone.
 
-1. 新增高质量资源（主要方式）
-2. 修正错误链接或过时信息
-3. 改进分类结构
-4. 完善资源描述
-5. 翻译或国际化支持
+---
 
-贡献流程
+## Pull Request Requirements
 
-第一步：准备工作
+Before submitting a Pull Request, please ensure:
 
-· 确保你拥有 GitHub 账户
-· Fork 本仓库到你的账户
-· 克隆到本地进行编辑
+- The repository or resource you add is **high quality and actively maintained**
+- The link is **not broken** and points to the correct page
+- The resource is **not a duplicate** of an existing entry
+- Add a **short and clear description** (1–2 lines)
+- Keep the **alphabetical order** within categories
+- Do not add **self-promotion, ads, or referral links**
+- Use proper **Markdown formatting**
+- Follow the existing **category structure**
 
-第二步：新增或修改内容
+---
 
-如果要添加新资源：
+## Updating Your Pull Request
 
-1. 检查是否已存在：先搜索列表，避免重复
-2. 确保质量：只添加你亲自使用过并认为真正出色的资源
-3. 选择合适的分类：按照知识图谱结构放置
-4. 提供清晰描述：用1-2句话说明：
-   · 这是什么资源
-   · 为什么它有价值
-   · 适合什么水平的学习者
+If maintainers request changes, you **do not need to open a new PR**.  
+Simply update the existing one by editing your commits.
 
-格式要求：
+If you are unfamiliar with updating commits, you can refer to this guide:  
+https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md
 
-```markdown
-- [资源名称](链接) - 简洁有力的描述，突出其独特价值。（可选：@作者或维护者）
-```
+---
 
-示例：
-
-```markdown
-- [Computer Science Field Guide](https://csfieldguide.org.nz/) - 交互式的计算机科学入门指南，用可视化和实际示例解释抽象概念。（@新西兰大学）
-```
-
-第三步：提交更改
-
-1. 提交清晰的 commit 信息，如：feat: 添加分布式系统学习资源
-2. 发起 Pull Request
-3. 在 PR 描述中说明：
-   · 你添加/修改了什么
-   · 为什么这个资源符合“awesome”标准
-   · 它属于哪个知识领域
-
-质量标准
-
-我们遵循 "Only awesome is awesome" 原则：
-
-接受的条件：
-
-✅ 原创性：提供独特视角或价值的资源
-✅ 实用性：能直接帮助学习者或实践者
-✅ 时效性：尽量选择最近更新或经久不衰的内容
-✅ 可访问性：免费或提供足够的免费内容
-✅ 良好维护：活跃维护的项目或持续更新的内容
-
-通常拒绝的情况：
-
-❌ 基础教程（除非有独特教学法）
-❌ 简单工具列表（除非有深入分析）
-❌ 商业推广内容
-❌ 已过时（>3年未更新）且无替代品的技术
-❌ 质量一般的个人博客（无 peer review）
-
-分类原则
-
-我们的知识图谱遵循以下路径：
-
-```
-基础 → 语言 → 工程 → 专业领域 → 底层 → 成长
-```
-
-添加资源时，请思考：
-
-1. 这个资源处于学习路径的哪个阶段？
-2. 它连接了哪些前置和后置知识？
-3. 是否有助于构建完整的知识体系？
-
-PR 审查流程
-
-1. 自动化检查：格式、链接有效性
-2. 内容审查：维护者评估资源质量
-3. 结构调整建议：可能需要调整分类
-4. 合并决策：通常1-3个工作日内反馈
-
-社区准则
-
-我们期望所有贡献者：
-
-· 保持专业和尊重的沟通
-· 接受建设性批评
-· 关注列表的整体质量而非个人偏好
-· 帮助维护结构的清晰性
-
-常见问题
-
-Q: 我可以添加自己的项目吗？
-A: 可以，但必须符合高质量标准，且需明确标注是你的项目。我们会对自荐内容进行更严格的审查。
-
-Q: 资源必须免费吗？
-A: 优先免费资源，但高质量的付费课程/书籍也可接受，需在描述中注明。
-
-Q: 中文资源可以吗？
-A: 当然！我们鼓励多语言资源，但请确保有高质量的内容。
-
-Q: 我的PR被拒绝了怎么办？
-A: 查看反馈意见，改进后可以重新提交。我们乐于指导如何改进。
-
-成为维护者
-
-长期高质量贡献者可能被邀请成为维护者。维护者职责：
-
-· 审查PR
-· 维护列表结构
-· 定期更新过时内容
-· 参与路线图讨论
+Thank you for helping improve this project!
