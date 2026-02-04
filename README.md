@@ -3,11 +3,8 @@
 </div>
 
 <div align="center">
-  <h1>Awesome Alfadi</h1>
+  <h1>Awesome Alfadi <img src="https://awesome.re/badge-flat2.svg" alt="Awesome Badge" style="height:30px; vertical-align:middle;"></h1>
 </div>
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-
-
 **Awesome Alfadi**: A Structured Atlas for the Technical Cosmos
 
 This repository is a curated, graph-based navigation system for the modern technologist. We map the intricate connections between foundational computer science, modern software development, advanced AI/ML, cybersecurity landscapes, low-level systems architecture, and professional growth pathways.
