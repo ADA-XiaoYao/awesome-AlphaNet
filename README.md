@@ -1,5 +1,11 @@
 # Awesome Alfadi [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-
+<div align="center">
+	<img width="1168" height="880" src="media/banner.jpg" alt="Awesome">
+	<br>
+	<br>
+	<br>
+	<br>
+	<div>
 **Awesome Alfadi**: A Structured Atlas for the Technical Cosmos
 
 This repository is a curated, graph-based navigation system for the modern technologist. We map the intricate connections between foundational computer science, modern software development, advanced AI/ML, cybersecurity landscapes, low-level systems architecture, and professional growth pathways.
