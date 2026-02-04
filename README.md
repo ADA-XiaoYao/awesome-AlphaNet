@@ -1,11 +1,11 @@
-# Awesome Alfadi [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 <div align="center">
-	<img width="1168" height="880" src="Media/banner.jpg">
-	<br>
-	<br>
-	<br>
-	<br>
-	<div>
+  <img src="Media/banner.jpg" alt="Awesome Alfadi Banner" width="100%" style="max-width:1200px; height:auto; border-radius:12px;">
+</div>
+
+<div align="center">
+  <h1>Awesome Alfadi</h1>
+  [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+</div>
 
 **Awesome Alfadi**: A Structured Atlas for the Technical Cosmos
 
