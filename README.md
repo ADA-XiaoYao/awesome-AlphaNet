@@ -3,7 +3,12 @@
 </div>
 
 <div align="center">
-  <h1>Awesome Alfadi <img src="https://awesome.re/badge-flat2.svg" alt="Awesome Badge" style="height:30px; vertical-align:middle;"></h1>
+  <h1>
+    Awesome Alfadi 
+    <a href="https://awesome.re">
+      <img src="https://awesome.re/badge.svg" alt="Awesome Badge" style="height:30px; vertical-align:middle;">
+    </a>
+  </h1>
 </div>
 **Awesome Alfadi**: A Structured Atlas for the Technical Cosmos
 
