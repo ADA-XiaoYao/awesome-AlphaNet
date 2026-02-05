@@ -373,7 +373,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### Reconnaissance & Information Gathering
+## Reconnaissance & Information Gathering
 
 #### Subdomain Enumeration & Discovery
 - [Amass](https://github.com/owasp-amass/amass) - From OWASP, the most powerful tool for in-depth subdomain enumeration and network mapping.
@@ -845,6 +845,57 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [OSSEC](https://github.com/ossec/ossec-hids) - An open-source Host-based Intrusion Detection System (HIDS).
 - [Wazuh](https://github.com/wazuh/wazuh) - An open-source security platform based on OSSEC.
 - [Falco](https://github.com/falcosecurity/falco) - A cloud-native runtime security tool, often used for Linux hosts and containers.
+
+---
+
+### Code Auditing
+
+*   [Awesome Code Review](https://github.com/joho/awesome-code-review) - A curated list of tools, articles, and resources about code review.
+*   [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools for all programming languages, essential for security auditing.
+*   [CodeQL](https://github.com/github/codeql) - A powerful semantic code analysis engine developed by GitHub for automating vulnerability discovery.
+*   [Semgrep](https://github.com/semgrep/semgrep) - A fast, open-source, static analysis tool for finding bugs and enforcing code standards.
+*   [Bandit](https://github.com/PyCQA/bandit) - A tool designed specifically to find common security issues in Python code.
+*   [SonarQube](https://github.com/SonarSource/sonarqube) - An open-source platform for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities.
+
+### Privilege Escalation
+
+*   [Awesome Privilege Escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of high-quality resources, articles, and tools on privilege escalation.
+*   [PEASS-ng](https://github.com/carlospolop/PEASS-ng) - Privilege Escalation Awesome Scripts SUITE, for Windows and Linux/Unix systems, to check for potential privilege escalation paths.
+*   [GTFOBins](https://gtfobins.github.io/) - A curated list of Unix binaries that can be exploited to bypass local security restrictions.
+*   [LOLBAS](https://lolbas-project.github.io/) - Documents binaries, scripts, and libraries that can be used for "Living Off The Land" attacks on Windows.
+*   [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell Post-Exploitation Framework that includes several modules for privilege escalation.
+*   [LinEnum](https://github.com/rebootuser/LinEnum) - A scripted Linux local enumeration and privilege escalation checker.
+
+### Binary Modification & Repackaging
+
+*   [Awesome Reverse Engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - A curated list of resources, frameworks, and tools for reverse engineering.
+*   [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - A software reverse engineering (SRE) framework developed by the National Security Agency (NSA).
+*   [Radare2](https://github.com/radareorg/radare2) - A Unix-like reverse engineering framework and command-line toolset.
+*   [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for Windows.
+*   [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android APK files, allowing for modification and repackaging.
+*   [Frida](https://github.com/frida/frida) - A dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+
+### Internal Network Security
+
+*   [Awesome Pentesting](https://github.com/enaqx/awesome-pentesting) - A collection of numerous penetration testing resources, tools, and other highlights.
+*   [Impacket](https://github.com/fortra/impacket) - A collection of Python classes for working with network protocols, an essential tool for internal network pentesting.
+*   [Mimikatz](https://github.com/gentilkiwi/mimikatz) - A tool for extracting plaintext passwords, hashes, PINs, and Kerberos tickets from memory on Windows.
+*   [BloodHound](https://github.com/BloodHoundAD/BloodHound) - Graphically reveals hidden and unexpected relationships in an Active Directory environment.
+*   [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A post-exploitation tool that helps automate security assessments in large networks.
+*   [Responder](https://github.com/lgandx/Responder) - An LLMNR, NBT-NS, and MDNS poisoner, often used to capture network credential hashes.
+*   [Internal-Pentest-Playbook](https://github.com/21y4d/Internal-Pentest-Playbook) - A practical playbook for internal penetration testing, covering various techniques and strategies.
+
+---
+
+### Vulnerability Discovery & Exploitation
+
+*   [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A comprehensive list of useful payloads and bypasses for Web Application Security testing.
+*   [Awesome Pentesting](https://github.com/enaqx/awesome-pentesting) - A curated collection of awesome penetration testing resources, tools, and other shiny things.
+*   [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) - A curated list of bug bounty programs, resources, and tools for security researchers.
+*   [Exploit Database](https://github.com/offensive-security/exploitdb) - The official Exploit Database repository from Offensive Security, containing a vast collection of public exploits.
+*   [ProjectDiscovery Tools](https://github.com/projectdiscovery) - A collection of powerful tools for vulnerability discovery and reconnaissance, such as `nuclei`, `httpx`, and `subfinder`.
+*   [SecLists](https://github.com/danielmiessler/SecLists) - A collection of multiple types of lists used during security assessments, from usernames and passwords to web shells and fuzzing payloads.
+*   [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome hacking tutorials, tools and resources.
 
 ---
 
