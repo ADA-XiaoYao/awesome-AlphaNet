@@ -115,7 +115,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 * [Awesome Actions](https://github.com/sdras/awesome-actions) - GitHub Actions tools and workflows.
 * [Awesome Browser Extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - Browser extensions that enhance GitHub.
 
-### Programming Languages
+### Awesome Programming Languages
 
 * [Awesome Python](https://github.com/vinta/awesome-python) - Python frameworks, libraries, and tools.
 * [Awesome Go](https://github.com/avelino/awesome-go) - Go frameworks and software.
