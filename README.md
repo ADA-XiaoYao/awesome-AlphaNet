@@ -141,321 +141,272 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-## 计算机科学与软件工程
+## Computer Science & Software Engineering
 
-#### 2.1 综合学习路径 & 课程
+#### 2.1 Comprehensive Learning Paths & Courses
 
-*   [OSSU Computer Science](https://github.com/ossu/computer-science) - 开源社区大学的完整计算机科学自学课程。
-*   [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - 成为各类开发者的学习路径图，非常全面。
-*   [Coding Interview University](https://github.com/jwasham/coding-interview-university) - 成为软件工程师的完整自学计划，尤其适合面试准备。
-*   [CS-Courses](https://github.com/prakhar1989/awesome-cs-courses) - 来自世界名校的计算机科学课程列表。
-*   [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - 海量的免费编程电子书。
-*   [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - 通过构建实际项目来学习编程的教程列表。
-*   [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - 从零开始构建自己的数据库、操作系统、机器人等的教程集合。
-*   [The Art of Computer Science](https://github.com/The-Art-of-Computer-Science/The-Art-of-Computer-Science) - 现代计算机科学自学指南。
-*   [CS-Notes](https://github.com/CyC2018/CS-Notes) - 技术面试必备基础知识、Leetcode 题解。
-*   [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - 为忙碌工程师准备的免费技术面试资源。
-*   [Teach Yourself CS](https://github.com/ossu/computer-science/blob/master/README.md) - (已包含在 OSSU 中) 自学计算机科学的经典指南。
-*   [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - 程序员应知应会的知识点列表。
-*   [Free for Dev](https://github.com/ripienaar/free-for-dev) - 为开发者提供的免费 SaaS、PaaS、IaaS 等服务。
-*   [Professional Programming](https://github.com/charlax/professional-programming) - 成为更专业程序员的资源集合。
-*   [What the f*ck Python!](https://github.com/satwikkansal/wtfpython) - 有趣的 Python 代码片段，帮助理解语言细节。
-*   [Computer Science](https://github.com/springboard-curriculum/computer-science-fundamentals) - Springboard 的计算机科学基础课程。
+*   [OSSU Computer Science](https://github.com/ossu/computer-science) - A complete self-taught computer science curriculum from the open-source university community.
+*   [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmaps to become various types of developers, very comprehensive.
+*   [Coding Interview University](https://github.com/jwasham/coding-interview-university) - A full self-study plan for software engineers, especially for interview preparation.
+*   [CS-Courses](https://github.com/prakhar1989/awesome-cs-courses) - A list of computer science courses from top universities worldwide.
+*   [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - A vast collection of free programming ebooks.
+*   [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - Tutorials for learning programming by building real projects.
+*   [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Tutorials for building your own database, operating system, robot, etc.
+*   [The Art of Computer Science](https://github.com/The-Art-of-Computer-Science/The-Art-of-Computer-Science) - A modern self-study guide for computer science.
+*   [CS-Notes](https://github.com/CyC2018/CS-Notes) - Essential technical interview knowledge and Leetcode solutions.
+*   [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - Free technical interview resources for busy engineers.
+*   [Teach Yourself CS](https://github.com/ossu/computer-science/blob/master/README.md) - (Included in OSSU) Classic guide for self-learning computer science.
+*   [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - A list of knowledge every programmer should know.
+*   [Free for Dev](https://github.com/ripienaar/free-for-dev) - Free SaaS, PaaS, IaaS, and other services for developers.
+*   [Professional Programming](https://github.com/charlax/professional-programming) - Resources to become a more professional programmer.
+*   [What the f*ck Python!](https://github.com/satwikkansal/wtfpython) - Fun Python snippets to understand language details.
+*   [Computer Science](https://github.com/springboard-curriculum/computer-science-fundamentals) - Springboard's foundational computer science course.
 
-#### 2.2 算法与数据结构
+#### 2.2 Algorithms & Data Structures
 
-*   [The Algorithms - Python](https://github.com/TheAlgorithms/Python) - 所有算法的 Python 实现。
-*   [The Algorithms - Java](https://github.com/TheAlgorithms/Java) - 所有算法的 Java 实现。
-*   [The Algorithms - C++](https://github.com/TheAlgorithms/C_Plus_Plus) - 所有算法的 C++ 实现。
-*   [The Algorithms - JavaScript](https://github.com/TheAlgorithms/JavaScript) - 所有算法的 JavaScript 实现。
-*   [The Algorithms - Go](https://github.com/TheAlgorithms/Go) - 所有算法的 Go 实现。
-*   [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) - 算法和数据结构学习资源。
-*   [LeetCode](https://github.com/azl397985856/leetcode) - LeetCode 题解（多种语言）。
-*   [Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - 交互式的算法可视化工具。
-*   [Algorithms](https://github.com/keon/algorithms) - 最小化的、人类可读的算法实现。
-*   [Hello-Algorithm](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。
-*   [Structure and Interpretation of Computer Programs](https://github.com/sarabander/sicp) - 《计算机程序的构造和解释》电子版。
-*   [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) - 算法竞赛资源。
-*   [Problem-Solving-with-Algorithms-and-Data-Structures-using-Python](https://github.com/runestone/pythonds) - 使用 Python 解决算法和数据结构问题。
-*   [DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - Kunal Kushwaha 的数据结构与算法训练营。
-*   [Mastering-Go-Third-Edition](https://github.com/mlowicki/Mastering-Go-Third-Edition) - 《Mastering Go》第三版，包含并发和数据结构。
-*   [Sedgewick-Algorithms](https://github.com/reneargento/algorithms-sedgewick-wayne) - Sedgewick 和 Wayne 的《算法》一书的解法。
+*   [The Algorithms - Python](https://github.com/TheAlgorithms/Python) - Python implementations of all algorithms.
+*   [The Algorithms - Java](https://github.com/TheAlgorithms/Java) - Java implementations of all algorithms.
+*   [The Algorithms - C++](https://github.com/TheAlgorithms/C_Plus_Plus) - C++ implementations of all algorithms.
+*   [The Algorithms - JavaScript](https://github.com/TheAlgorithms/JavaScript) - JavaScript implementations of all algorithms.
+*   [The Algorithms - Go](https://github.com/TheAlgorithms/Go) - Go implementations of all algorithms.
+*   [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) - Resources for learning algorithms and data structures.
+*   [LeetCode](https://github.com/azl397985856/leetcode) - LeetCode solutions in multiple languages.
+*   [Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - Interactive algorithm visualization tool.
+*   [Algorithms](https://github.com/keon/algorithms) - Minimalistic, human-readable algorithm implementations.
+*   [Hello-Algorithm](https://github.com/krahets/hello-algo) - "Hello Algorithm": Animated, one-click runnable tutorials for data structures and algorithms.
+*   [Structure and Interpretation of Computer Programs](https://github.com/sarabander/sicp) - Electronic version of *SICP*.
+*   [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) - Resources for algorithm competitions.
+*   [Problem-Solving-with-Algorithms-and-Data-Structures-using-Python](https://github.com/runestone/pythonds) - Solving algorithms and data structures with Python.
+*   [DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - Kunal Kushwaha’s data structures and algorithms bootcamp.
+*   [Mastering-Go-Third-Edition](https://github.com/mlowicki/Mastering-Go-Third-Edition) - *Mastering Go* 3rd edition, covering concurrency and data structures.
+*   [Sedgewick-Algorithms](https://github.com/reneargento/algorithms-sedgewick-wayne) - Solutions from Sedgewick and Wayne's *Algorithms* book.
 
-#### 2.3 系统设计 & 架构
+#### 2.3 System Design & Architecture
 
-*   [System Design Primer](https://github.com/donnemartin/system-design-primer) - 学习如何设计可扩展的系统，面试必备。
-*   [Awesome System Design](https://github.com/maddhruv/awesome-system-design) - 系统设计资源集合。
-*   [Grokking the System Design Interview](https://github.com/Jeevan-kumar-Raj/Grokking-the-System-Design-Interview) - 系统设计面试的经典教程。
-*   [Systems Design Cheatsheet](https://github.com/karanpratapsingh/system-design) - 系统设计速查表。
-*   [Designing Data-Intensive Applications](https://github.com/andres-fr/data-intensive-applications-notes) - 《设计数据密集型应用》的笔记。
-*   [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - 微服务架构模式、框架和资源。
-*   [Microservices-Patters](https://github.com/microservices-patterns/ftgo-application) - 《微服务模式》一书的示例代码。
-*   [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - 可扩展性、可用性和稳定性模式的阅读列表。
-*   [The System Design Manual](https://github.com/system-design-ops/system-design) - 系统设计手册。
-*   [System-Design-Interview-An-Insiders-Guide](https://github.com/resumejob/system-design-interview) - 《系统设计面试》相关资源。
-*   [Cloud Design Patterns](https://github.com/mspnp/cloud-design-patterns) - 微软官方的云设计模式。
-*   [Architecture of Open Source Applications](http://aosabook.org/en/index.html) - 开源应用架构剖析。
-*   [Web-Architecture-101](https://github.com/matiassingers/web-architecture-101) - Web 架构基础。
-*   [Software-Architecture-And-Design-Patterns](https://github.com/MagalixCorp/Software-Architecture-And-Design-Patterns) - 软件架构与设计模式。
-*   [How-web-works](https://github.com/vasanthk/how-web-works) - Web 工作原理的简单解释。
+*   [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design scalable systems; essential for interviews.
+*   [Awesome System Design](https://github.com/maddhruv/awesome-system-design) - A collection of system design resources.
+*   [Grokking the System Design Interview](https://github.com/Jeevan-kumar-Raj/Grokking-the-System-Design-Interview) - Classic tutorials for system design interviews.
+*   [Systems Design Cheatsheet](https://github.com/karanpratapsingh/system-design) - System design quick reference.
+*   [Designing Data-Intensive Applications](https://github.com/andres-fr/data-intensive-applications-notes) - Notes for *Designing Data-Intensive Applications*.
+*   [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - Microservices architecture patterns, frameworks, and resources.
+*   [Microservices-Patterns](https://github.com/microservices-patterns/ftgo-application) - Example code for *Microservices Patterns* book.
+*   [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - Reading list on scalability, availability, and stability patterns.
+*   [The System Design Manual](https://github.com/system-design-ops/system-design) - System design manual.
+*   [System-Design-Interview-An-Insiders-Guide](https://github.com/resumejob/system-design-interview) - Resources for *System Design Interview*.
+*   [Cloud Design Patterns](https://github.com/mspnp/cloud-design-patterns) - Official Microsoft cloud design patterns.
+*   [Architecture of Open Source Applications](http://aosabook.org/en/index.html) - Analysis of open-source application architectures.
+*   [Web-Architecture-101](https://github.com/matiassingers/web-architecture-101) - Basics of web architecture.
+*   [Software-Architecture-And-Design-Patterns](https://github.com/MagalixCorp/Software-Architecture-And-Design-Patterns) - Software architecture and design patterns.
+*   [How-web-works](https://github.com/vasanthk/how-web-works) - Simple explanations of how the web works.
 
-#### 2.4 软件工程实践 & DevOps
+#### 2.4 Software Engineering Practices & DevOps
 
-*   [Awesome DevOps](https://github.com/bregman-arie/awesome-devops) - DevOps 工具、文化和资源。
-*   [Awesome SRE](https://github.com/dastergon/awesome-sre) - 网站可靠性工程（SRE）资源。
-*   [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - 软件设计模式资源。
-*   [Refactoring.Guru](https://github.com/Refactoring-Guru/design-patterns-python) - 设计模式的 Python 实现。
-*   [Source-Making-Design-Patterns](https://github.com/iluwatar/java-design-patterns) - Java 设计模式实现。
-*   [Awesome Testing](https://github.com/TheJambo/awesome-testing) - 软件测试资源、工具和技术。
-*   [Awesome Clean Code](https://github.com/JuanCrg90/Clean-Code-Notes) - 《代码整洁之道》笔记与实践。
-*   [The Art of Readable Code](https://github.com/YegorBugayenko/the-art-of-readable-code) - 《编写可读代码的艺术》相关资源。
-*   [Software Engineering at Google](https://github.com/google/eng-practices) - Google 的工程实践文档。
-*   [97-Things-Every-Programmer-Should-Know](https://github.com/97-things/97-things-every-programmer-should-know) - 每个程序员都应该知道的 97 件事。
-*   [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - 系统管理员、渗透测试人员、开发人员等的笔记和清单。
-*   [Awesome CI/CD](https://github.com/ciandcd/awesome-ciandcd) - 持续集成和持续部署资源。
-*   [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) - 生产环境机器学习资源。
-*   [Git-Best-Practices](https://github.com/k88hudson/git-flight-rules) - Git 飞行规则，最佳实践指南。
-*   [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - 构建安全 API 的清单。
-*   [The-Pragmatic-Programmer](https://github.com/pragmaticprogrammer/pragmatic_programmer_20th_anniversary_edition) - 《程序员的修炼》相关资源。
-*   [Awesome Agile](https://github.com/lorabv/awesome-agile) - 敏捷软件开发资源。
-*   [Awesome-README](https://github.com/matiassingers/awesome-readme) - 优秀的 README 范例。
+*   [Awesome DevOps](https://github.com/bregman-arie/awesome-devops) - DevOps tools, culture, and resources.
+*   [Awesome SRE](https://github.com/dastergon/awesome-sre) - Site Reliability Engineering (SRE) resources.
+*   [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - Software design pattern resources.
+*   [Refactoring.Guru](https://github.com/Refactoring-Guru/design-patterns-python) - Python implementations of design patterns.
+*   [Source-Making-Design-Patterns](https://github.com/iluwatar/java-design-patterns) - Java design pattern implementations.
+*   [Awesome Testing](https://github.com/TheJambo/awesome-testing) - Software testing resources, tools, and techniques.
+*   [Awesome Clean Code](https://github.com/JuanCrg90/Clean-Code-Notes) - Notes and practices from *Clean Code*.
+*   [The Art of Readable Code](https://github.com/YegorBugayenko/the-art-of-readable-code) - Resources related to *The Art of Readable Code*.
+*   [Software Engineering at Google](https://github.com/google/eng-practices) - Google engineering practices.
+*   [97-Things-Every-Programmer-Should-Know](https://github.com/97-things/97-things-every-programmer-should-know) - 97 things every programmer should know.
+*   [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Notes and checklists for sysadmins, pentesters, and developers.
+*   [Awesome CI/CD](https://github.com/ciandcd/awesome-ciandcd) - Continuous integration and deployment resources.
+*   [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) - Production ML resources.
+*   [Git-Best-Practices](https://github.com/k88hudson/git-flight-rules) - Git flight rules; best practices guide.
+*   [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist for building secure APIs.
+*   [The-Pragmatic-Programmer](https://github.com/pragmaticprogrammer/pragmatic_programmer_20th_anniversary_edition) - Resources related to *The Pragmatic Programmer*.
+*   [Awesome Agile](https://github.com/lorabv/awesome-agile) - Agile software development resources.
+*   [Awesome-README](https://github.com/matiassingers/awesome-readme) - Examples of excellent README files.
 
-#### 2.5 操作系统 & 底层原理
+#### 2.5 Operating Systems & Low-Level Concepts
 
-*   [Awesome Operating Systems](https://github.com/jubalh/awesome-os) - 操作系统开发资源。
-*   [Linux Kernel](https://github.com/torvalds/linux) - Linux 内核源码。
-*   [Awesome Compilers](https://github.com/aalhour/awesome-compilers) - 编译器、解释器和运行时资源。
-*   [Crafting Interpreters](https://github.com/munificent/craftinginterpreters) - 《构建解释器》一书的开源版本。
-*   [Writing an OS in Rust](https://github.com/phil-opp/blog_os) - 在 Rust 中编写一个操作系统的博客系列。
-*   [The little book about OS development](https://github.com/littleosbook/littleosbook) - 关于操作系统开发的小书。
-*   [xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - MIT 的教学操作系统 xv6 的 RISC-V 版本。
-*   [Awesome Concurrency](https://github.com/lukasz-madon/awesome-concurrency) - 并发编程资源。
-*   [Computer-Networking-A-Top-Down-Approach-Solutions](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-Solutions) - 《计算机网络：自顶向下方法》答案。
-*   [Dive into Systems](https://github.com/diveintosystems/diveintosystems.github.io) - 一本免费的计算机系统入门书籍。
-*   [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - 经典的操作系统教材。
-*   [Awesome-Virtualization](https://github.com/WJCarpenter/awesome-virtualization) - 虚拟化技术资源。
-*   [Awesome-LLVM](https://github.com/HongxuChen/awesome-llvm) - LLVM 相关资源。
-*   [Linux-Insides](https://github.com/0xAX/linux-insides) - 深入 Linux 内核。
-*   [What Happens When You Type a URL in the Browser](https://github.com/alex/what-happens-when) - 当你在浏览器中输入 URL 后发生了什么。
+*   [Awesome Operating Systems](https://github.com/jubalh/awesome-os) - Operating system development resources.
+*   [Linux Kernel](https://github.com/torvalds/linux) - Linux kernel source code.
+*   [Awesome Compilers](https://github.com/aalhour/awesome-compilers) - Compilers, interpreters, and runtime resources.
+*   [Crafting Interpreters](https://github.com/munificent/craftinginterpreters) - Open-source version of *Crafting Interpreters*.
+*   [Writing an OS in Rust](https://github.com/phil-opp/blog_os) - Blog series on building an OS in Rust.
+*   [The little book about OS development](https://github.com/littleosbook/littleosbook) - A small book on OS development.
+*   [xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - MIT’s teaching OS xv6 for RISC-V.
+*   [Awesome Concurrency](https://github.com/lukasz-madon/awesome-concurrency) - Concurrency programming resources.
+*   [Computer-Networking-A-Top-Down-Approach-Solutions](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-Solutions) - Solutions for *Computer Networking: A Top-Down Approach*.
+*   [Dive into Systems](https://github.com/diveintosystems/diveintosystems.github.io) - Free introductory book on computer systems.
+*   [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Classic operating systems textbook.
+*   [Awesome-Virtualization](https://github.com/WJCarpenter/awesome-virtualization) - Virtualization resources.
+*   [Awesome-LLVM](https://github.com/HongxuChen/awesome-llvm) - LLVM-related resources.
+*   [Linux-Insides](https://github.com/0xAX/linux-insides) - Deep dive into the Linux kernel.
+*   [What Happens When You Type a URL in the Browser](https://github.com/alex/what-happens-when) - What happens after typing a URL in a browser.
 
-#### 2.6 数据库
+#### 2.6 Databases
 
-*   [Awesome Database](https://github.com/numetriclabz/awesome-db) - 数据库工具和资源。
-*   [Awesome-Postgres](https://github.com/dhamaniasad/awesome-postgres) - PostgreSQL 资源。
-*   [Awesome-MySQL](https://github.com/shlomi-noach/awesome-mysql) - MySQL 资源。
-*   [Awesome-SQLite](https://github.com/planet-sqlite/awesome-sqlite) - SQLite 资源。
-*   [Awesome-Redis](https://github.com/JamzyWang/awesome-redis) - Redis 资源。
-*   [Awesome-MongoDB](https://github.com/ramnes/awesome-mongodb) - MongoDB 资源。
-*   [Database-Systems-Design-Implementation-and-Management](https://github.com/pingcap/awesome-database-learning) - 数据库学习资源。
-*   [Use-The-Index-Luke](https://github.com/unindexed/use-the-index-luke) - SQL 索引指南。
-*   [SQL-style-guide](https://github.com/simonholywell/sql-style-guide) - SQL 风格指南。
-*   [Advanced-SQL](https://github.com/s-shemmee/advanced-sql) - 高级 SQL 技巧。
-*   [DB-Engines](https://db-engines.com/en/ranking) - 数据库流行度排名。
+*   [Awesome Database](https://github.com/numetriclabz/awesome-db) - Database tools and resources.
+*   [Awesome-Postgres](https://github.com/dhamaniasad/awesome-postgres) - PostgreSQL resources.
+*   [Awesome-MySQL](https://github.com/shlomi-noach/awesome-mysql) - MySQL resources.
+*   [Awesome-SQLite](https://github.com/planet-sqlite/awesome-sqlite) - SQLite resources.
+*   [Awesome-Redis](https://github.com/JamzyWang/awesome-redis) - Redis resources.
+*   [Awesome-MongoDB](https://github.com/ramnes/awesome-mongodb) - MongoDB resources.
+*   [Database-Systems-Design-Implementation-and-Management](https://github.com/pingcap/awesome-database-learning) - Database learning resources.
+*   [Use-The-Index-Luke](https://github.com/unindexed/use-the-index-luke) - Guide to SQL indexes.
+*   [SQL-style-guide](https://github.com/simonholywell/sql-style-guide) - SQL style guide.
+*   [Advanced-SQL](https://github.com/s-shemmee/advanced-sql) - Advanced SQL techniques.
+*   [DB-Engines](https://db-engines.com/en/ranking) - Database popularity ranking.
 
-#### 2.7 数学 & 理论基础
+#### 2.7 Mathematics & Theoretical Foundations
 
-*   [Awesome Mathematics](https://github.com/rossant/awesome-math) - 数学资源。
-*   [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) - 密码学资源。
-*   [Awesome-Information-Theory](https://github.com/soroushz/awesome-information-theory) - 信息论资源。
-*   [3Blue1Brown](https://github.com/3b1b/manim) - 著名数学可视化视频背后的动画引擎。
-*   [Project Euler](https://github.com/nayuki/Project-Euler-solutions) - 欧拉计划问题解法。
-*   [Math-as-code](https://github.com/Jam3/math-as-code) - 将数学公式翻译成代码的备忘单。
-*   [Homotopy Type Theory](https://github.com/HoTT/book) - 同伦类型理论书籍。
-*   [Awesome-Calculus](https://github.com/e-kol/awesome-calculus) - 微积分资源。
-*   [Awesome-Linear-Algebra](https://github.com/vochicong/awesome-linear-algebra) - 线性代数资源。
-*   [Probability-and-Statistics-Ebook](https://github.com/chervwood/Probability-and-Statistics-Ebook) - 概率与统计电子书。
+*   [Awesome Mathematics](https://github.com/rossant/awesome-math) - Mathematics resources.
+*   [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) - Cryptography resources.
+*   [Awesome-Information-Theory](https://github.com/soroushz/awesome-information-theory) - Information theory resources.
+*   [3Blue1Brown](https://github.com/3b1b/manim) - Animation engine behind famous math visualization videos.
+*   [Project Euler](https://github.com/nayuki/Project-Euler-solutions) - Solutions for Project Euler problems.
+*   [Math-as-code](https://github.com/Jam3/math-as-code) - Cheat sheet for translating math formulas into code.
+*   [Homotopy Type Theory](https://github.com/HoTT/book) - Book on homotopy type theory.
+*   [Awesome-Calculus](https://github.com/e-kol/awesome-calculus) - Calculus resources.
+*   [Awesome-Linear-Algebra](https://github.com/vochicong/awesome-linear-algebra) - Linear algebra resources.
+*   [Probability-and-Statistics-Ebook](https://github.com/chervwood/Probability-and-Statistics-Ebook) - Probability and statistics ebook.
 
-#### 2.8 其他 & 杂项
+#### 2.8 Miscellaneous & Others
 
-*   [Awesome-Falsehood](https://github.com/kdeldycke/awesome-falsehood) - 程序员对于各种概念的错误认知列表。
-*   [Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode) - Unicode 资源。
-*   [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks) - 精彩的技术演讲。
-*   [Computer-Science-From-the-Bottom-Up](https://github.com/ianw/bottomupcs) - 从零开始的计算机科学。
-*   [How to Design Programs](https://github.com/HtDP/2e) - 《如何设计程序》第二版。
-*   [Nand to Tetris](https://www.nand2tetris.org/) - 从与非门到俄罗斯方块，构建一台现代计算机。
-*   [Go-SCP](https://github.com/bramvdbogaerde/go-scp) - Go 实现的 SCP 客户端。
-*   [Public-APIs](https://github.com/public-apis/public-apis) - 用于开发和测试的免费公共 API 列表。
-*   [Learn-anything](https://github.com/learn-anything/learn-anything) - 带有交互式思维导图的学习路径。
-*   [The-Art-of-Command-Line](https://github.com/jlevy/the-art-of-command-line) - 命令行使用艺术。
-*   [Gitignore](https://github.com/github/gitignore) - 有用的 `.gitignore` 模板集合。
-*   [Big-List-of-Naughty-Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - 用于测试的“淘气”字符串列表。
-*   [Awesome-Analytics](https://github.com/newhouse/awesome-analytics) - 分析工具和服务。
-*   [Awesome-Public-Datasets](https://github.com/awesomedata/awesome-public-datasets) - 高质量的公共数据集。
-*   [Awesome-Technical-Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - 技术写作资源。
-*   [Awesome-Scientific-Writing](https://github.com/writing-resources/awesome-scientific-writing) - 科学写作资源。
-*   [Awesome-Product-Management](https://github.com/dend/awesome-product-management) - 产品管理资源。
-*   [Awesome-Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - 系统管理员资源。
+*   [Awesome-Falsehood](https://github.com/kdeldycke/awesome-falsehood) - List of common misconceptions by programmers.
+*   [Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode) - Unicode resources.
+*   [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks) - Excellent technical talks.
+*   [Computer-Science-From-the-Bottom-Up](https://github.com/ianw/bottomupcs) - Computer science from scratch.
+*   [How to Design Programs](https://github.com/HtDP/2e) - Second edition of *How to Design Programs*.
+*   [Nand to Tetris](https://www.nand2tetris.org/) - From NAND gates to Tetris: build a modern computer.
+*   [Go-SCP](https://github.com/bramvdbogaerde/go-scp) - SCP client implemented in Go.
+*   [Public-APIs](https://github.com/public-apis/public-apis) - Free public APIs for development and testing.
+*   [Learn-anything](https://github.com/learn-anything/learn-anything) - Learning paths with interactive mind maps.
+*   [The-Art-of-Command-Line](https://github.com/jlevy/the-art-of-command-line) - The art of using the command line.
+*   [Gitignore](https://github.com/github/gitignore) - Collection of useful `.gitignore` templates.
+*   [Big-List-of-Naughty-Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - List of "naughty" strings for testing.
+*   [Awesome-Analytics](https://github.com/newhouse/awesome-analytics) - Analytics tools and services.
+*   [Awesome-Public-Datasets](https://github.com/awesomedata/awesome-public-datasets) - High-quality public datasets.
+*   [Awesome-Technical-Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - Technical writing resources.
+*   [Awesome-Scientific-Writing](https://github.com/writing-resources/awesome-scientific-writing) - Scientific writing resources.
+*   [Awesome-Product-Management](https://github.com/dend/awesome-product-management) - Product management resources.
+*   [Awesome-Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - System administrator resources.
 
 ---
 
-## 编程语言
+## Programming Languages
 
-#### 3.1 综合 & 多语言资源
+#### 3.1 Comprehensive & Multi‑Language Resources
 
-*   [Awesome Languages](https://github.com/abhishek-pandey/awesome-languages) - 所有编程语言的 Awesome 列表集合。
-*   [Learn X in Y minutes](https://github.com/adambard/learnxinyminutes-docs) - 在 Y 分钟内快速学习 X 语言的简明教程。
-*   [Programming Language Zoo](https://github.com/andrejbauer/plzoo) - 各种编程语言特性和实现的集合。
-*   [Awesome Polyglot](https://github.com/bast/awesome-polyglot) - 多语言编程资源。
-*   [Hyperpolyglot](http://hyperpolyglot.org/) - 常见编程语言的语法并排比较。
-*   [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - 用不同语言实现相同任务的编程示例。
-*   [Awesome Compilers](https://github.com/aalhour/awesome-compilers) - 编译器、解释器和运行时资源，与语言设计密切相关。
-*   [Crafting Interpreters](https://github.com/munificent/craftinginterpreters) - 开源书籍，教你如何构建解释器。
-*   [Build Your Own Lisp](http://www.buildyourownlisp.com/) - 用 C 语言编写自己的 Lisp。
-*   [Programming-Language-Benchmarks](https://github.com/drujensen/fib) - 不同语言的斐波那契数列性能基准测试。
-*   [The Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/) - 各种语言的性能评测。
+*   [Awesome Languages](https://github.com/abhishek-pandey/awesome-languages) – Curated lists of programming languages resources.
+*   [Learn X in Y Minutes](https://github.com/adambard/learnxinyminutes-docs) – Quick language tutorials.
+*   [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) – Same tasks in many languages.
+*   [Awesome Compilers](https://github.com/aalhour/awesome-compilers) – Compilers/interpreters resources.
+*   [Build Your Own Lisp](http://www.buildyourownlisp.com/) – Create Lisp in C.
 
-#### 3.2 C & C++
+---
 
-*   [Awesome Cpp](https://github.com/fffaraz/awesome-cpp) - C++ 框架、库和资源。
-*   [Awesome C](https://github.com/inputsh/awesome-c) - C 语言框架、库和资源。
-*   [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) - C++ 核心指南，由 Bjarne Stroustrup 等人编写。
-*   [Modern C++](https://github.com/rigtorp/awesome-modern-cpp) - 现代 C++ (11/14/17/20) 资源。
-*   [The C++ Standard Library](https://github.com/sol-prog/The-C-Standard-Library-by-Example) - C++ 标准库示例。
-*   [Google Test](https://github.com/google/googletest) - Google 的 C++ 测试框架。
-*   [JSON for Modern C++](https://github.com/nlohmann/json) - 现代 C++ 的 JSON 库。
-*   [ImGui](https://github.com/ocornut/imgui) - 无依赖的、即时模式的图形用户界面库。
-*   [vcpkg](https://github.com/microsoft/vcpkg) - C++ 包管理器。
-*   [CMake](https://github.com/Kitware/CMake) - 跨平台的构建、测试和打包工具。
-*   [OpenCV](https://github.com/opencv/opencv) - 开源计算机视觉库。
-*   [Boost C++ Libraries](https://github.com/boostorg/boost) - 高质量的 C++ 库集合。
-*   [fmt](https://github.com/fmtlib/fmt) - 现代 C++ 的格式化库。
-*   [spdlog](https://github.com/gabime/spdlog) - 快速的、仅头文件的 C++ 日志库。
-*   [gRPC](https://github.com/grpc/grpc) - 高性能、开源的通用 RPC 框架。
-*   [Protobuf](https://github.com/protocolbuffers/protobuf) - Google 的数据交换格式。
-*   [Effective Modern C++](https://github.com/federico-busato/Modern-CPP-Programming) - 《Effective Modern C++》相关资源。
-*   [libuv](https://github.com/libuv/libuv) - 跨平台的异步 I/O 库 (Node.js 的核心)。
-*   [PicoHTTPParser](https://github.com/h2o/picohttpparser) - 微小的、快速的 HTTP 解析器。
-*   [Crow](https://github.com/CrowCpp/Crow) - 快速、易用的 C++ 微型 Web 框架。
+## Act I: Classics & Foundations
 
-#### 3.3 Python
+#### Imperative & Procedural
 
-*   [Awesome Python](https://github.com/vinta/awesome-python) - Python 框架、库、软件和资源。
-*   [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications) - 开源的 Python 应用软件。
-*   [Python-Guide](https://github.com/realpython/python-guide) - Python 最佳实践指南。
-*   [Full Speed Python](https://github.com/joaoventura/full-speed-python) - 快速学习 Python 的书籍。
-*   [Django](https://github.com/django/django) - 高级的 Python Web 框架。
-*   [Flask](https://github.com/pallets/flask) - 轻量级的 Python Web 框架。
-*   [FastAPI](https://github.com/tiangolo/fastapi) - 现代、快速的 Python Web 框架。
-*   [Requests](https://github.com/psf/requests) - 优雅、简洁的 HTTP 库。
-*   [Pandas](https://github.com/pandas-dev/pandas) - 强大的数据分析和操作库。
-*   [NumPy](https://github.com/numpy/numpy) - Python 科学计算的基础包。
-*   [Scikit-learn](https://github.com/scikit-learn/scikit-learn) - Python 机器学习库。
-*   [Matplotlib](https://github.com/matplotlib/matplotlib) - Python 绘图库。
-*   [Celery](https://github.com/celery/celery) - 分布式任务队列。
-*   [Rich](https://github.com/Textualize/rich) - 在终端中创建丰富文本和漂亮格式的库。
-*   [Black](https://github.com/psf/black) - 不妥协的 Python 代码格式化工具。
-*   [Pytest](https://github.com/pytest-dev/pytest) - 成熟、功能齐全的 Python 测试框架。
-*   [Pydantic](https://github.com/pydantic/pydantic) - 使用 Python 类型提示进行数据验证和设置管理。
-*   [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) - Python SQL 工具包和对象关系映射器。
-*   [Click](https://github.com/pallets/click) - 用于创建漂亮命令行界面的库。
-*   [Streamlit](https://github.com/streamlit/streamlit) - 为机器学习和数据科学项目构建 Web 应用的最快方法。
-*   [Poetry](https://github.com/python-poetry/poetry) - Python 依赖管理和打包工具。
-*   [Manim](https://github.com/3b1b/manim) - 用于精确编程动画的引擎，由 3Blue1Brown 使用。
+* **C** – [Awesome C](https://github.com/inputsh/awesome-c)  
+* **Fortran** – [Fortran Tutorial on GitHub](https://github.com/j3-fortran/fortran_tutorial)  
+* **COBOL** – [Awesome COBOL](https://github.com/loveOSS/awesome-cobol) – libraries, frameworks, tools. 0  
+* **ALGOL** – (historic; use via Rosetta Code examples) 1  
+* **BASIC** – QB64 / Rosetta Code examples  
+* **Pascal** – Free Pascal tutorials  
+* **Ada** – AdaCore tutorials
 
-#### 3.4 JavaScript / TypeScript / Node.js
+#### Object‑Oriented
 
-*   [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - 浏览器端 JavaScript 库、资源。
-*   [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) - Node.js 包和资源。
-*   [Awesome TypeScript](https://github.com/dzharii/awesome-typescript) - TypeScript 资源。
-*   [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - 深入 JavaScript 核心机制的书籍系列。
-*   [JavaScript-Algorithms](https://github.com/trekhleb/javascript-algorithms) - 基于 JavaScript 的算法和数据结构。
-*   [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - Airbnb 的 JavaScript 风格指南。
-*   [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Node.js 最佳实践列表。
-*   [React](https://github.com/facebook/react) - 用于构建用户界面的 JavaScript 库。
-*   [Vue.js](https://github.com/vuejs/vue) - 渐进式 JavaScript 框架。
-*   [Angular](https://github.com/angular/angular) - 基于 TypeScript 的 Web 应用框架。
-*   [Svelte](https://github.com/sveltejs/svelte) - 将声明性组件转换为高效 JavaScript 代码的编译器。
-*   [Express](https://github.com/expressjs/express) - 快速、无主见的、极简的 Node.js Web 框架。
-*   [Next.js](https://github.com/vercel/next.js) - React 框架，用于生产环境。
-*   [NestJS](https://github.com/nestjs/nest) - 用于构建高效、可扩展的 Node.js 服务器端应用的框架。
-*   [D3.js](https://github.com/d3/d3) - 使用动态、交互式的数据可视化来操纵文档。
-*   [Three.js](https://github.com/mrdoob/three.js) - JavaScript 3D 图形库。
-*   [Lodash](https://github.com/lodash/lodash) - 提供模块化、性能和附加功能的现代 JavaScript 工具库。
-*   [Axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端，适用于浏览器和 Node.js。
-*   [Jest](https://github.com/facebook/jest) - 令人愉快的 JavaScript 测试框架。
-*   [Webpack](https://github.com/webpack/webpack) - 现代 JavaScript 应用的静态模块打包器。
-*   [Vite](https://github.com/vitejs/vite) - 下一代前端开发与构建工具。
-*   [ESLint](https://github.com/eslint/eslint) - 可插拔的 JavaScript 和 JSX linting 工具。
-*   [Prettier](https://github.com/prettier/prettier) - 有主见的代码格式化工具。
-*   [PM2](https://github.com/Unitech/pm2) - Node.js 应用的生产流程管理器。
-*   [Puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API。
+* **Smalltalk** – Pharo Tutorials  
+* **Java** – [Awesome Java](https://github.com/akullpp/awesome-java)  
+* **C++** – See **3.2 C & C++** below.  
+* **C#** – [Awesome CSharp](https://github.com/uhub/awesome-csharp)  
+* **Ruby** – [Awesome Ruby](https://github.com/markets/awesome-ruby)  
+* **Delphi (Object Pascal)** – Delphi resources  
+* **Eiffel** – Official docs
 
-#### 3.5 Go
+#### Functional
 
-*   [Awesome Go](https://github.com/avelino/awesome-go) - Go 框架、库和软件。
-*   [Go by Example](https://gobyexample.com/) - Go 语言示例教程。
-*   [Gin](https://github.com/gin-gonic/gin) - Go 编写的 HTTP Web 框架。
-*   [Echo](https://github.com/labstack/echo) - 高性能、可扩展、极简的 Go Web 框架。
-*   [GORM](https://github.com/go-gorm/gorm) - Go 语言的 ORM 库。
-*   [Cobra](https://github.com/spf13/cobra) - 用于创建强大现代 CLI 应用的库。
-*   [Viper](https://github.com/spf13/viper) - Go 应用的完整配置解决方案。
-*   [Go-Kit](https://github.com/go-kit/kit) - Go 微服务的标准库。
-*   [Go-Micro](https://github.com/go-micro/go-micro) - 分布式系统开发框架。
-*   [Colly](https://github.com/gocolly/colly) - 优雅、快速的爬虫和抓取框架。
-*   [Fyne](https://github.com/fyne-io/fyne) - Go 编写的跨平台 UI 工具包。
-*   [Bubble Tea](https://github.com/charmbracelet/bubbletea) - 用于构建交互式终端应用的 Go 框架。
-*   [Testify](https://github.com/stretchr/testify) - Go 的断言工具包。
-*   [The Go Programming Language](https://github.com/gopl-zh/gopl-zh.github.com) - 《Go 程序设计语言》中文翻译。
-*   [Mastering Go](https://github.com/mlowicki/Mastering-Go-Third-Edition) - 《精通 Go》第三版。
-*   [100 Go Mistakes](https://github.com/teivah/100-go-mistakes) - 100 个 Go 语言常见错误。
+* **Lisp** / **Scheme** – Racket & SICP  
+* **Haskell** – [Awesome Haskell](https://github.com/krispo/awesome-haskell)  
+* **ML / OCaml / F#** – OCaml & F# docs  
+* **Clojure** – [Awesome Clojure](https://github.com/razum2um/awesome-clojure)  
+* **Erlang / Elixir** – Erlang & Elixir guides
 
-#### 3.6 Rust
+#### Logic
 
-*   [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - Rust 代码和资源。
-*   [The Rust Programming Language](https://github.com/rust-lang/book) - 《Rust 程序设计语言》官方书籍。
-*   [Rust by Example](https://github.com/rust-lang/rust-by-example) - Rust 示例教程。
-*   [Tokio](https://github.com/tokio-rs/tokio) - 用于编写异步应用的运行时。
-*   [Serde](https://github.com/serde-rs/serde) - Rust 数据的序列化框架。
-*   [Actix-web](https://github.com/actix/actix-web) - 强大、实用且极速的 Rust Web 框架。
-*   [Rocket](https://github.com/SergioBenitez/Rocket) - Rust 的 Web 框架，注重安全、速度和易用性。
-*   [Diesel](https://github.com/diesel-rs/diesel) - 安全、可扩展的 ORM 和查询构建器。
-*   [Rayon](https://github.com/rayon-rs/rayon) - Rust 的数据并行库。
-*   [Clap](https://github.com/clap-rs/clap) - Rust 的命令行参数解析器。
-*   [Bevy](https://github.com/bevyengine/bevy) - 一个简单的数据驱动的游戏引擎。
-*   [Yew](https://github.com/yewstack/yew) - 使用 WebAssembly 构建多线程前端 Web 应用的 Rust 框架。
-*   [Tauri](https://github.com/tauri-apps/tauri) - 使用 Web 前端构建更小、更快、更安全的桌面应用。
-*   [Alacritty](https://github.com/alacritty/alacritty) - 跨平台的、GPU 加速的终端模拟器。
-*   [Bat](https://github.com/sharkdp/bat) - 带有语法高亮和 Git 集成的 `cat` 克隆。
-*   [Ripgrep](https://github.com/BurntSushi/ripgrep) - 递归地在目录中搜索正则表达式模式的行导向搜索工具。
-*   [Exa](https://github.com/ogham/exa) - `ls` 的现代替代品。
+* **Prolog & Datalog** – SWI‑Prolog + Rosetta Code logic tasks
 
-#### 3.7 Java & JVM 生态
+---
 
-*   [Awesome Java](https://github.com/akullpp/awesome-java) - Java 框架、库和软件。
-*   [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin) - Kotlin 资源。
-*   [Awesome Scala](https://github.com/lauris/awesome-scala) - Scala 资源。
-*   [Awesome Clojure](https://github.com/razum2um/awesome-clojure) - Clojure 资源。
-*   [Spring Framework](https://github.com/spring-projects/spring-framework) - Java 应用开发的核心支持。
-*   [Spring Boot](https://github.com/spring-projects/spring-boot) - 简化 Spring 应用的创建。
-*   [Guava](https://github.com/google/guava) - Google 的 Java 核心库。
-*   [Netty](https://github.com/netty/netty) - 异步事件驱动的网络应用框架。
-*   [MyBatis](https://github.com/mybatis/mybatis-3) - 一流的持久化框架。
-*   [RxJava](https://github.com/ReactiveX/RxJava) - JVM 的响应式扩展。
-*   [OkHttp](https://github.com/square/okhttp) - Android 和 Java 应用的 HTTP 客户端。
-*   [JUnit 5](https://github.com/junit-team/junit5) - 下一代 Java 测试框架。
-*   [Mockito](https://github.com/mockito/mockito) - Java 的 Mocking 框架。
-*   [Lombok](https://github.com/projectlombok/lombok) - 减少 Java 样板代码的库。
-*   [Zxing](https://github.com/zxing/zxing) - 多格式的一维/二维条码图像处理库。
-*   [On Java 8](https://github.com/LingCoder/OnJava8) - 《On Java 8》中文版。
-*   [Effective Java 3rd Edition](https://github.com/s-j-choi/effective-java-3rd-edition) - 《Effective Java》第三版。
+## Act II: Web & Modern Applications
 
-#### 3.8 其他语言
+#### Frontend
 
-*   [Awesome-Swift](https://github.com/matteocrippa/awesome-swift) - Swift 资源。
-*   [Awesome-PHP](https://github.com/ziadoz/awesome-php) - PHP 资源。
-*   [Awesome-Ruby](https://github.com/markets/awesome-ruby) - Ruby 资源。
-*   [Awesome-CSharp](https://github.com/uhub/awesome-csharp) - C# 资源。
-*   [Awesome-Elixir](https://github.com/h4cc/awesome-elixir) - Elixir 资源。
-*   [Awesome-Haskell](https://github.com/krispo/awesome-haskell) - Haskell 资源。
-*   [Awesome-Lua](https://github.com/LewisJEllis/awesome-lua) - Lua 资源。
-*   [Awesome-R](https://github.com/qinwf/awesome-R) - R 语言资源。
-*   [Awesome-Dart](https://github.com/yissachar/awesome-dart) - Dart 语言资源。
-*   [Awesome-Julia](https://github.com/svaksha/Julia.jl) - Julia 语言资源。
-*   [Awesome-OCaml](https://github.com/ocaml-community/awesome-ocaml) - OCaml 资源。
-*   [Awesome-Crystal](https://github.com/veelenga/awesome-crystal) - Crystal 语言资源。
-*   [Awesome-Nim](https://github.com/ringabout/awesome-nim) - Nim 语言资源。
-*   [Awesome-Zig](https://github.com/catdevnull/awesome-zig) - Zig 语言资源。
-*   [Awesome-WebAssembly](https://github.com/mbasso/awesome-wasm) - WebAssembly 资源。
+* **JavaScript/TypeScript** – [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript), [Awesome TypeScript](https://github.com/dzharii/awesome-typescript)  
+* **CoffeeScript** – Official docs  
+* **Dart** – Dart tutorials
+
+#### Backend & Full‑Stack
+
+* **Node.js** – [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)  
+* **PHP** – [Awesome PHP](https://github.com/ziadoz/awesome-php)  
+* **Python** – See **3.3 Python**  
+* **Java / Kotlin / Swift / Perl** – Official docs
+
+#### Data & Templates
+
+* **SQL** – SQLBolt interactive lessons  
+* **HTML/CSS** – MDN Learn Web Docs
+
+---
+
+## Act III: Systems & Emerging
+
+* **Systems Programming:** Zig, Nim – [Awesome Zig](https://github.com/catdevnull/awesome-zig), [Awesome Nim](https://github.com/ringabout/awesome-nim)  
+* **Scientific & Data:** Py, R, Julia – R for Data Science & Julia learning guides  
+* **Mobile/Embedded:** Swift on server, Kotlin Android, MicroPython
+
+---
+
+## Act IV: Domain‑Specific Languages
+
+#### Shell & Configuration
+
+* Bash / Zsh / PowerShell – [Awesome Shell](https://github.com/alebcay/awesome-shell)  
+* Vim script & Emacs Lisp – Editor scripting docs  
+* CMake / Makefile – Build tooling
+
+#### Hardware & Chips
+
+* **Verilog / VHDL / SystemVerilog** – [Awesome FPGA](https://github.com/FPGA-research/awesome-fpga)  
+* **Assembly** – Rosetta Code + PC assembly tutorials
+
+#### Modeling & Statistics
+
+* **R / Stan / MATLAB / Simulink**
+    * **Stan:** [Stan Tutorials](https://mc-stan.org/learn-stan/tutorials.html), [Stan User’s Guide](https://mc-stan.org/docs/2_18/stan-users-guide/) – probabilistic programming language docs and examples 2  
+    * **Simulink:** Official MathWorks docs
+
+#### Creative & Graphics
+
+* **Processing / p5.js / GLSL** – Processing, p5.js tutorials, GLSL shader examples
+
+#### Office & Automation
+
+* **VBA / AppleScript / AutoHotkey** – Official guides
+
+#### Academic & Historical
+
+* **APL / Forth / Logo / SNOBOL / MUMPS**
+    * **SNOBOL:** Historic symbolic language (examples in Rosetta Code) 3  
+    * **MUMPS:** Historic language (reference in historical lists) 4
+
+---
+
+## Act V: Cutting‑Edge & Exploratory
+
+* **Concurrency & Distributed:** Erlang/Elixir, Go, Rust, Clojure resources  
+* **Blockchain:** Solidity & Vyper / Move docs  
+* **Query & Analysis:** SQL variants, **XQuery** – XML query language tutorials  
+* **Code Generation & Metaprogramming:** Terra, Racket
 
 ---
 
@@ -1858,153 +1809,153 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-## 人工智能与数据科学
+## Artificial Intelligence & Data Science
 
-#### 11.1 综合性 Awesome 列表 & 资源库
+#### 11.1 Comprehensive Awesome Lists & Repositories
 
-*   [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - 最全面的机器学习框架、库和软件列表。
-*   [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - 深度学习教程、项目和社区的集合。
-*   [Awesome Data Science](https://github.com/academic/awesome-datascience) - 数据科学领域的资源，包括课程、博客、数据集等。
-*   [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) - 大语言模型（LLM）的权威资源列表。
-*   [Awesome-AI-Agents](https://github.com/e2b-dev/awesome-ai-agents) - AI 智能体资源列表。
-*   [Awesome Generative AI](https://github.com/steven-tey/awesome-generative-ai) - 生成式 AI 应用和工具的精选列表。
-*   [Awesome MLOps](https://github.com/visenger/awesome-mlops) - MLOps 平台、工具和资源的集合。
-*   [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) - 数据工程工具和资源。
-*   [Awesome AI Security](https://github.com/Deep-Learning-Security/Awesome-AI-Security) - AI 安全资源，涵盖攻击与防御。
-*   [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) - 生产环境机器学习资源。
-*   [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - (重复) 高质量的公共数据集，AI/DS 的燃料。
-*   [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - 成为 AI 专家的学习路线图。
-*   [Data-Science-Cheatsheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) - 数据科学备忘单。
-*   [Deep-Learning-Drizzle](https://github.com/kmario23/deep-learning-drizzle) - 深度学习资源集合。
-*   [Hugging Face](https://huggingface.co/) - AI 社区，提供海量的模型、数据集和工具。
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A comprehensive list of machine learning frameworks, libraries, and software.
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A collection of deep learning tutorials, projects, and communities.
+* [Awesome Data Science](https://github.com/academic/awesome-datascience) - Resources for data science, including courses, blogs, datasets, and more.
+* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) - Authoritative list of resources for Large Language Models (LLM).
+* [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) - Resources for AI agents.
+* [Awesome Generative AI](https://github.com/steven-tey/awesome-generative-ai) - Curated list of generative AI tools and applications.
+* [Awesome MLOps](https://github.com/visenger/awesome-mlops) - Collection of MLOps platforms, tools, and resources.
+* [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) - Tools and resources for data engineering.
+* [Awesome AI Security](https://github.com/Deep-Learning-Security/Awesome-AI-Security) - AI security resources, covering attacks and defenses.
+* [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) - Resources for deploying ML in production.
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - High-quality public datasets for AI and data science.
+* [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Learning roadmap to become an AI expert.
+* [Data Science Cheatsheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) - Cheatsheets for data science concepts.
+* [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle) - Collection of deep learning resources.
+* [Hugging Face](https://huggingface.co/) - AI community providing models, datasets, and tools.
 
-#### 11.2 机器学习 & 深度学习框架
+#### 11.2 Machine Learning & Deep Learning Frameworks
 
-*   [TensorFlow](https://github.com/tensorflow/tensorflow) - Google 开发的端到端开源机器学习平台。
-*   [PyTorch](https://github.com/pytorch/pytorch) - Facebook 开发的开源机器学习框架，以其灵活性和动态图著称。
-*   [Keras](https://github.com/keras-team/keras) - 高度模块化、用户友好的神经网络库，可运行在 TensorFlow, PyTorch 等之上。
-*   [Scikit-learn](https://github.com/scikit-learn/scikit-learn) - (重复) Python 中最流行的传统机器学习库。
-*   [JAX](https://github.com/google/jax) - Google 开发的、用于高性能机器学习研究的 NumPy 增强版。
-*   [MXNet](https://github.com/apache/mxnet) - Apache 的深度学习框架。
-*   [Caffe](https://github.com/BVLC/caffe) - 伯克利人工智能研究室开发的深度学习框架。
-*   [Theano](https://github.com/Theano/Theano) - (已停止开发，但有历史意义) Python 深度学习库。
-*   [ONNX (Open Neural Network Exchange)](https://github.com/onnx/onnx) - 用于表示深度学习模型的开放格式。
-*   [Deeplearning4j](https://github.com/eclipse/deeplearning4j) - JVM 平台的开源、分布式深度学习库。
-*   [Fastai](https://github.com/fastai/fastai) - 基于 PyTorch 的高级深度学习库，简化了训练过程。
-*   [Chainer](https://github.com/chainer/chainer) - (已转向 PyTorch) 灵活的神经网络框架。
-*   [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) - 百度开发的开源深度学习平台。
-*   [TFLearn](https://github.com/tflearn/tflearn) - 基于 TensorFlow 的模块化深度学习库。
-*   [Sonnet](https://github.com/deepmind/sonnet) - DeepMind 基于 TensorFlow 构建的神经网络库。
+* [TensorFlow](https://github.com/tensorflow/tensorflow) - End-to-end open-source machine learning platform by Google.
+* [PyTorch](https://github.com/pytorch/pytorch) - Open-source ML framework by Meta, known for flexibility and dynamic computation.
+* [Keras](https://github.com/keras-team/keras) - High-level neural networks API, compatible with TensorFlow, PyTorch, and more.
+* [Scikit-learn](https://github.com/scikit-learn/scikit-learn) - Popular library for classical ML in Python.
+* [JAX](https://github.com/google/jax) - High-performance numerical computing library from Google, NumPy compatible.
+* [MXNet](https://github.com/apache/mxnet) - Deep learning framework by Apache.
+* [Caffe](https://github.com/BVLC/caffe) - Deep learning framework developed by Berkeley AI Research.
+* [Theano](https://github.com/Theano/Theano) - Historical Python library for deep learning (no longer maintained).
+* [ONNX](https://github.com/onnx/onnx) - Open format for representing deep learning models.
+* [Deeplearning4j](https://github.com/eclipse/deeplearning4j) - Distributed deep learning library for JVM.
+* [Fastai](https://github.com/fastai/fastai) - High-level deep learning library based on PyTorch.
+* [Chainer](https://github.com/chainer/chainer) - Flexible neural network framework (now largely merged with PyTorch).
+* [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) - Open-source deep learning platform by Baidu.
+* [TFLearn](https://github.com/tflearn/tflearn) - Modular deep learning library built on TensorFlow.
+* [Sonnet](https://github.com/deepmind/sonnet) - Neural network library by DeepMind, built on TensorFlow.
 
-#### 11.3 大语言模型 (LLM) & AIGC
-*   [n8n](https://github.com/n8n-io/n8n) - 支持 AI 节点的开源工作流自动化平台。
-*   [Langflow](https://github.com/langflow-ai/langflow) - 用于设计和部署 LLM 应用的可视化构建器。
-*   [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 目前最强的开源大语言模型之一。
-*   [Dify](https://github.com/langgenius/dify) - 生产级 LLM 应用开发平台。
-*   [Ollama](https://github.com/ollama/ollama) - 在本地轻松运行大语言模型的工具。
-*   [RAGFlow](https://github.com/infiniflow/ragflow) - 基于深度文档理解的下一代 RAG 引擎。
-*   [vLLM](https://github.com/vllm-project/vllm) - 高吞吐量、内存高效的 LLM 推理和服务库。
-*   [OpenHands](https://github.com/All-Hands-AI/OpenHands) - 开源的 AI 软件工程师智能体。
+#### 11.3 Large Language Models (LLM) & AIGC
 
-*   [LangChain](https://github.com/langchain-ai/langchain) - 用于开发由语言模型驱动的应用的框架。
-*   [LlamaIndex](https://github.com/run-llama/llama_index) - 连接 LLM 和外部数据的接口。
-*   [Transformers](https://github.com/huggingface/transformers) - Hugging Face 出品，提供数千个预训练模型，用于 NLP, NLU 和 NLG。
-*   [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - 开源的文本到图像生成模型。
-*   [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion 的浏览器界面。
-*   [Whisper](https://github.com/openai/whisper) - OpenAI 开源的通用语音识别模型。
-*   [LLaMA](https://github.com/facebookresearch/llama) - Meta AI 的基础大语言模型。
-*   [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - 在 LLaMA 基础上进行指令微调的模型。
-*   [Vicuna](https://github.com/lm-sys/FastChat) - 基于 LLaMA 的、性能接近 ChatGPT 的开源聊天模型。
-*   [Oobabooga's Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) - 用于运行大语言模型的 Gradio Web UI。
-*   [PrivateGPT](https://github.com/imartinez/privateGPT) - 在本地、无网络连接的情况下与文档进行交互。
-*   [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - 旨在实现完全自主运行 GPT-4 的实验性开源尝试。
-*   [AgentGPT](https://github.com/reworkd/AgentGPT) - 在浏览器中组装、配置和部署自主 AI 智能体。
-*   [Awesome-Prompt-Engineering](https://github.com/prompt-engineering/awesome-prompt-engineering) - (重复) 提示工程资源。
-*   [LLM-From-Scratch](https://github.com/rasbt/LLMs-from-scratch) - 从零开始构建 LLM 的教程。
-*   [LoRA (Low-Rank Adaptation)](https://github.com/microsoft/LoRA) - 微软提出的、用于高效微调大模型的技术。
-*   [vLLM](https://github.com/vllm-project/vllm) - 用于 LLM 推理和服务的高吞吐量库。
-*   [Sentence-Transformers](https://github.com/UKPLab/sentence-transformers) - 用于生成句子/文本嵌入的库。
-*   [PEFT (Parameter-Efficient Fine-Tuning)](https://github.com/huggingface/peft) - Hugging Face 的参数高效微调库。
-*   [bitsandbytes](https.github.com/TimDettmers/bitsandbytes) - 8 位量化库，用于在消费级硬件上运行大模型。
-*   [GPT-Engineer](https://github.com/gpt-engineer-org/gpt-engineer) - 根据提示生成整个代码库。
-*   [InvokeAI](https://github.com/invoke-ai/InvokeAI) - 领先的 Stable Diffusion GUI 和 API。
-*   [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - 强大和模块化的 Stable Diffusion GUI，基于节点图。
-*   [Fooocus](https://github.com/lllyasviel/Fooocus) - 极简但功能强大的 Stable Diffusion 软件。
+* [n8n](https://github.com/n8n-io/n8n) - Open-source workflow automation with AI nodes.
+* [Langflow](https://github.com/langflow-ai/langflow) - Visual builder for designing and deploying LLM applications.
+* [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - One of the most powerful open-source LLMs currently.
+* [Dify](https://github.com/langgenius/dify) - Production-grade LLM development platform.
+* [Ollama](https://github.com/ollama/ollama) - Tool to run LLMs locally with ease.
+* [RAGFlow](https://github.com/infiniflow/ragflow) - Next-gen RAG engine based on deep document understanding.
+* [vLLM](https://github.com/vllm-project/vllm) - High-throughput, memory-efficient LLM inference library.
+* [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open-source AI software engineer agents.
 
-#### 11.4 计算机视觉 (CV)
+* [LangChain](https://github.com/langchain-ai/langchain) - Framework to build applications powered by language models.
+* [LlamaIndex](https://github.com/run-llama/llama_index) - Connects LLMs with external data.
+* [Transformers](https://github.com/huggingface/transformers) - Hugging Face library with thousands of pre-trained models for NLP, NLU, and NLG.
+* [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - Open-source text-to-image generation model.
+* [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Browser interface for Stable Diffusion.
+* [Whisper](https://github.com/openai/whisper) - OpenAI’s universal speech recognition model.
+* [LLaMA](https://github.com/facebookresearch/llama) - Foundation LLM by Meta AI.
+* [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Instruction-tuned model based on LLaMA.
+* [Vicuna](https://github.com/lm-sys/FastChat) - LLaMA-based, ChatGPT-level open-source chat model.
+* [Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) - Gradio Web UI for running LLMs.
+* [PrivateGPT](https://github.com/imartinez/privateGPT) - Local, offline interaction with documents.
+* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Experimental autonomous GPT-4 project.
+* [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI agents in-browser.
+* [Awesome Prompt Engineering](https://github.com/prompt-engineering/awesome-prompt-engineering) - Resources for prompt engineering.
+* [LLM From Scratch](https://github.com/rasbt/LLMs-from-scratch) - Tutorial to build LLMs from zero.
+* [LoRA (Low-Rank Adaptation)](https://github.com/microsoft/LoRA) - Efficient fine-tuning method for large models.
+* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) - Library for generating sentence/text embeddings.
+* [PEFT (Parameter-Efficient Fine-Tuning)](https://github.com/huggingface/peft) - Hugging Face library for parameter-efficient fine-tuning.
+* [bitsandbytes](https://github.com/TimDettmers/bitsandbytes) - 8-bit quantization library for running large models on consumer hardware.
+* [GPT-Engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Generate entire codebases from prompts.
+* [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Leading Stable Diffusion GUI and API.
+* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Modular node-based GUI for Stable Diffusion.
+* [Fooocus](https://github.com/lllyasviel/Fooocus) - Minimal but powerful Stable Diffusion software.
 
-*   [OpenCV](https://github.com/opencv/opencv) - (重复) 开源计算机视觉库的王者。
-*   [YOLO (You Only Look Once)](https://github.com/ultralytics/yolov5) - 实时目标检测算法（v5 版本）。
-*   [Detectron2](https://github.com/facebookresearch/detectron2) - Facebook AI Research 的下一代目标检测和分割平台。
-*   [MMDetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab 的目标检测工具箱和基准。
-*   [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) - (重复) 计算机视觉资源列表。
-*   [Pillow](https://github.com/python-pillow/Pillow) - 友好的 Python 图像处理库（PIL 的分支）。
-*   [Tesseract](https://github.com/tesseract-ocr/tesseract) - Google 支持的开源 OCR 引擎。
-*   [Albumentations](https://github.com/albumentations-team/albumentations) - 快速的图像增强库。
-*   [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - 实时多人关键点检测库。
-*   [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - 领先的 Deepfake 软件。
-*   [Face-recognition](https://github.com/ageitgey/face_recognition) - 世界上最简单的 Python 人脸识别库。
-*   [MediaPipe](https://github.com/google/mediapipe) - Google 的跨平台、可定制的机器学习解决方案，用于实时流媒体。
+#### 11.4 Computer Vision (CV)
 
-#### 11.5 自然语言处理 (NLP)
+* [OpenCV](https://github.com/opencv/opencv) - Open-source computer vision library.
+* [YOLO (You Only Look Once)](https://github.com/ultralytics/yolov5) - Real-time object detection algorithm (v5 version).
+* [Detectron2](https://github.com/facebookresearch/detectron2) - Next-generation object detection and segmentation platform by FAIR.
+* [MMDetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab toolbox and benchmarks for object detection.
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated computer vision resources.
+* [Pillow](https://github.com/python-pillow/Pillow) - Friendly Python image processing library (PIL fork).
+* [Tesseract](https://github.com/tesseract-ocr/tesseract) - Open-source OCR engine supported by Google.
+* [Albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library.
+* [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - Real-time multi-person keypoint detection.
+* [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - Leading Deepfake software.
+* [Face-recognition](https://github.com/ageitgey/face_recognition) - Simplest Python library for face recognition.
+* [MediaPipe](https://github.com/google/mediapipe) - Google cross-platform ML solutions for real-time streaming.
 
-*   [NLTK (Natural Language Toolkit)](https://github.com/nltk/nltk) - 领先的 Python 平台，用于处理人类语言数据。
-*   [SpaCy](https://github.com/explosion/spaCy) - 用于生产环境的工业级 NLP 库。
-*   [Gensim](https://github.com/RaRe-Technologies/gensim) - 用于主题建模、文档索引和相似性检索的 Python 库。
-*   [Awesome NLP](https://github.com/keon/awesome-nlp) - (重复) NLP 资源列表。
-*   [Stanza](https://github.com/stanfordnlp/stanza) - 斯坦福大学的 Python NLP 库。
-*   [Flair](https://github.com/flairNLP/flair) - 非常简单的 NLP 框架。
-*   [TextBlob](https://github.com/sloria/TextBlob) - 简化的文本处理 Python 库。
-*   [CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - 斯坦福大学的 Java NLP 工具套件。
+#### 11.5 Natural Language Processing (NLP)
 
-#### 11.6 数据处理 & 可视化
+* [NLTK](https://github.com/nltk/nltk) - Leading Python toolkit for human language data processing.
+* [SpaCy](https://github.com/explosion/spaCy) - Industrial-grade NLP library for production.
+* [Gensim](https://github.com/RaRe-Technologies/gensim) - Python library for topic modeling, document indexing, and similarity retrieval.
+* [Awesome NLP](https://github.com/keon/awesome-nlp) - Curated NLP resources.
+* [Stanza](https://github.com/stanfordnlp/stanza) - Stanford University Python NLP library.
+* [Flair](https://github.com/flairNLP/flair) - Simple NLP framework.
+* [TextBlob](https://github.com/sloria/TextBlob) - Simplified text processing library in Python.
+* [CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Stanford Java NLP toolkit.
 
-*   [Pandas](https://github.com/pandas-dev/pandas) - (重复) 强大的 Python 数据分析和操作库。
-*   [NumPy](https://github.com/numpy/numpy) - (重复) Python 科学计算的基础包。
-*   [Matplotlib](https://github.com/matplotlib/matplotlib) - (重复) Python 绘图库。
-*   [Seaborn](https://github.com/mwaskom/seaborn) - 基于 Matplotlib 的统计数据可视化库。
-*   [Plotly](https://github.com/plotly/plotly.py) - 交互式图表库。
-*   [Bokeh](https://github.com/bokeh/bokeh) - 用于现代 Web 浏览器的交互式可视化库。
-*   [Dask](https://github.com/dask/dask) - 用于并行计算的灵活库，可扩展 Pandas, Scikit-learn 等。
-*   [Vaex](https://github.com/vaexio/vaex) - 用于核外（out-of-core）DataFrame 的高性能 Python 库。
-*   [Jupyter Notebook](https://github.com/jupyter/notebook) - 基于 Web 的交互式计算环境。
-*   [JupyterLab](https://github.com/jupyterlab/jupyterlab) - 下一代 Jupyter Notebook。
-*   [Streamlit](https://github.com/streamlit/streamlit) - (重复) 为机器学习和数据科学项目构建 Web 应用的最快方法。
-*   [Gradio](https://github.com/gradio-app/gradio) - 为机器学习模型创建可定制的 UI 组件。
-*   [Apache Spark](https://github.com/apache/spark) - 统一的、用于大规模数据处理的分析引擎。
-*   [Apache Arrow](https://github.com/apache/arrow) - 跨语言的、用于内存中数据的开发平台。
-*   [Polars](https://github.com/pola-rs/polars) - Rust 编写的、极速的 DataFrame 库。
+#### 11.6 Data Processing & Visualization
 
-#### 11.7 MLOps & 数据工程
+* [Pandas](https://github.com/pandas-dev/pandas) - Powerful Python library for data manipulation and analysis.
+* [NumPy](https://github.com/numpy/numpy) - Fundamental package for scientific computing in Python.
+* [Matplotlib](https://github.com/matplotlib/matplotlib) - Popular plotting library in Python.
+* [Seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization library built on Matplotlib.
+* [Plotly](https://github.com/plotly/plotly.py) - Interactive plotting library.
+* [Bokeh](https://github.com/bokeh/bokeh) - Interactive visualization for modern web browsers.
+* [Dask](https://github.com/dask/dask) - Flexible library for parallel computing, scalable with Pandas and Scikit-learn.
+* [Vaex](https://github.com/vaexio/vaex) - High-performance out-of-core DataFrame library for Python.
+* [Jupyter Notebook](https://github.com/jupyter/notebook) - Web-based interactive computing environment.
+* [JupyterLab](https://github.com/jupyterlab/jupyterlab) - Next-generation Jupyter Notebook interface.
+* [Streamlit](https://github.com/streamlit/streamlit) - Build web apps for ML and data science projects rapidly.
+* [Gradio](https://github.com/gradio-app/gradio) - Customizable UI components for ML models.
+* [Apache Spark](https://github.com/apache/spark) - Unified engine for large-scale data processing.
+* [Apache Arrow](https://github.com/apache/arrow) - Cross-language development platform for in-memory data.
+* [Polars](https://github.com/pola-rs/polars) - Fast DataFrame library written in Rust.
 
-*   [MLflow](https://github.com/mlflow/mlflow) - 开源平台，用于管理端到端的机器学习生命周期。
-*   [Kubeflow](https://github.com/kubeflow/kubeflow) - 在 Kubernetes 上进行机器学习的工具包。
-*   [DVC (Data Version Control)](https://github.com/iterative/dvc) - 开源的版本控制系统，用于机器学习项目。
-*   [Airflow](https://github.com/apache/airflow) - 以编程方式创作、调度和监控工作流的平台。
-*   [Prefect](https://github.com/PrefectHQ/prefect) - 现代化的数据工作流自动化平台。
-*   [BentoML](https://github.com/bentoml/BentoML) - 用于机器学习模型服务和部署的框架。
-*   [Feast](https://github.com/feast-dev/feast) - 开源的特征存储。
-*   [Ray](https://github.com/ray-project/ray) - 用于扩展 AI 和 Python 应用的统一计算框架。
-*   [Optuna](https://github.com/optuna/optuna) - 自动化的超参数优化框架。
-*   [Weights & Biases (Wandb)](https://wandb.ai/site) - 用于跟踪实验、可视化数据和协作的 MLOps 平台。
-*   [ClearML](https://github.com/allegroai/clearml) - 自动化的 MLOps 平台。
-*   [DBT (Data Build Tool)](https://github.com/dbt-labs/dbt-core) - 数据转换工具，使数据分析师能够像软件工程师一样工作。
-*   [Great Expectations](https://github.com/great-expectations/great_expectations) - 用于数据测试、文档化和分析的工具。
-*   [Trino (formerly PrestoSQL)](https://github.com/trinodb/trino) - 分布式 SQL 查询引擎，用于大数据分析。
-*   [Delta Lake](https://github.com/delta-io/delta) - 为数据湖带来 ACID 事务的存储层。
+#### 11.7 MLOps & Data Engineering
 
-#### 11.8 AI 安全 & 可解释性
+* [MLflow](https://github.com/mlflow/mlflow) - Open-source platform for managing the end-to-end ML lifecycle.
+* [Kubeflow](https://github.com/kubeflow/kubeflow) - Toolkit for running ML on Kubernetes.
+* [DVC](https://github.com/iterative/dvc) - Open-source version control for ML projects.
+* [Airflow](https://github.com/apache/airflow) - Platform for programmatically authoring, scheduling, and monitoring workflows.
+* [Prefect](https://github.com/PrefectHQ/prefect) - Modern workflow automation platform for data pipelines.
+* [BentoML](https://github.com/bentoml/BentoML) - Framework for serving and deploying ML models.
+* [Feast](https://github.com/feast-dev/feast) - Open-source feature store.
+* [Ray](https://github.com/ray-project/ray) - Unified compute framework to scale AI and Python applications.
+* [Optuna](https://github.com/optuna/optuna) - Automated hyperparameter optimization framework.
+* [Weights & Biases (Wandb)](https://wandb.ai/site) - MLOps platform for experiment tracking, data visualization, and collaboration.
+* [ClearML](https://github.com/allegroai/clearml) - Automated MLOps platform.
+* [DBT](https://github.com/dbt-labs/dbt-core) - Data transformation tool for analysts.
+* [Great Expectations](https://github.com/great-expectations/great_expectations) - Data testing, documentation, and validation framework.
+* [Trino](https://github.com/trinodb/trino) - Distributed SQL query engine for big data analytics.
+* [Delta Lake](https://github.com/delta-io/delta) - Storage layer bringing ACID transactions to data lakes.
 
-*   [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - 用于机器学习安全的 Python 库。
-*   [CleverHans](https://github.com/cleverhans-lab/cleverhans) - 用于对机器学习系统进行基准测试的对抗样本库。
-*   [SHAP (SHapley Additive exPlanations)](https://github.com/slundberg/shap) - 一种博弈论方法，用于解释任何机器学习模型的输出。
-*   [LIME (Local Interpretable Model-agnostic Explanations)](https://github.com/marcotcr/lime) - 解释任何分类器或回归器预测的 Python 包。
-*   [Captum](https://github.com/pytorch/captum) - PyTorch 的模型可解释性库。
-*   [Counterfit](https://github.com/Azure/counterfit) - 自动化 AI 系统安全风险评估的命令行工具。
-*   [TextAttack](https://github.com/QData/TextAttack) - 用于 NLP 对抗性攻击、数据增强和模型训练的 Python 框架。
-*   [DeepFool](https://github.com/LTS4/deepfool) - 计算深度网络鲁棒性的简单而准确的方法。
-*   [AI-Exploits](https://github.com/protectai/ai-exploits) - 针对 AI 系统的漏洞利用集合。
-*   [Garak](https://github.com/leondz/garak) - LLM 漏洞扫描器。
+#### 11.8 AI Security & Explainability
+
+* [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Python library for ML security.
+* [CleverHans](https://github.com/cleverhans-lab/cleverhans) - Library for benchmarking adversarial attacks on ML systems.
+* [SHAP](https://github.com/slundberg/shap) - Game-theoretic method for explaining ML model outputs.
+* [LIME](https://github.com/marcotcr/lime) - Python package for interpreting predictions of any classifier or regressor.
+* [Captum](https://github.com/pytorch/captum) - Model interpretability library for PyTorch.
+* [Counterfit](https://github.com/Azure/counterfit) - CLI tool for automated AI system security assessment.
+* [TextAttack](https://github.com/QData/TextAttack) - Python framework for NLP adversarial attacks, data augmentation, and model training.
+* [DeepFool](https://github.com/LTS4/deepfool) - Simple and accurate method to compute deep network robustness.
+* [AI-Exploits](https://github.com/protectai/ai-exploits) - Collection of AI system exploits.
+* [Garak](https://github.com/leondz/garak) - LLM vulnerability scanner.
 
 ---
 
