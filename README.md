@@ -32,19 +32,14 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Computer Science & Software Engineering](#computer-science--software-engineering)
 
 - [Programming Languages](#programming-languages)
-  - [Imperative & Procedural Languages](#imperative--procedural-languages)
-  - [Object-Oriented Languages](#object-oriented-languages)
-  - [Functional Languages](#functional-languages)
-  - [Logic Programming](#logic-programming)
-  - [Web & Modern Application Languages](#web--modern-application-languages)
-  - [Systems & Performance Languages](#systems--performance-languages)
-  - [Scientific & Data Computing](#scientific--data-computing)
-  - [Mobile & Embedded Languages](#mobile--embedded-languages)
-  - [Domain-Specific Languages (DSL)](#domain-specific-languages-dsl)
-  - [Blockchain & Smart Contract Languages](#blockchain--smart-contract-languages)
-  - [Query & Data Languages](#query--data-languages)
-  - [Metaprogramming & Language Workbenches](#metaprogramming--language-workbenches)
-
+  - [Comprehensive & Multi-Language](#comprehensive--multi-language)
+  - [Imperative & Procedural](#imperative--procedural)
+  - [Object-Oriented](#object-oriented)
+  - [Functional](#functional)
+  - [Web & Modern Application](#web--modern-application)
+  - [Systems, Data & Emerging](#systems-data--emerging)
+  - [Domain-Specific & Specialized](#domain-specific--specialized)
+  
 - [Cybersecurity](#cybersecurity)
   - [Foundations & Entry Level](#foundations--entry-level)
   - [Reconnaissance & Information Gathering](#reconnaissance--information-gathering)
@@ -290,123 +285,72 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ## Programming Languages
 
-#### 3.1 Comprehensive & Multi‑Language Resources
+#### 3.1 Comprehensive Awesome Lists & Multi-Language Resources
 
-*   [Awesome Languages](https://github.com/abhishek-pandey/awesome-languages) – Curated lists of programming languages resources.
-*   [Learn X in Y Minutes](https://github.com/adambard/learnxinyminutes-docs) – Quick language tutorials.
-*   [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) – Same tasks in many languages.
-*   [Awesome Compilers](https://github.com/aalhour/awesome-compilers) – Compilers/interpreters resources.
-*   [Build Your Own Lisp](http://www.buildyourownlisp.com/) – Create Lisp in C.
+*   [Awesome Languages](https://github.com/abhishek-pandey/awesome-languages) - Curated collections of programming language resources and references.
+*   [Learn X in Y Minutes](https://github.com/adambard/learnxinyminutes-docs) - Quick syntax introductions for dozens of languages.
+*   [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - Compare the same tasks across many programming languages.
+*   [Awesome Compilers](https://github.com/aalhour/awesome-compilers) - Resources for compilers, interpreters, and language tooling.
+*   [Build Your Own Lisp](http://www.buildyourownlisp.com/) - Hands-on guide to building a Lisp interpreter in C.
 
----
+#### 3.2 Imperative & Procedural Languages
 
-## Act I: Classics & Foundations
+*   **C** – [Awesome C](https://github.com/inputsh/awesome-c) - Libraries, tools, and best practices.
+*   **Fortran** – [Fortran Tutorial](https://github.com/j3-fortran/fortran_tutorial) - Scientific and numerical computing guides.
+*   **COBOL** – [Awesome COBOL](https://github.com/loveOSS/awesome-cobol) - Enterprise and legacy system resources.
+*   **Pascal** – [Free Pascal](https://www.freepascal.org/) - Compiler and documentation.
+*   **Ada** – [AdaCore Learn](https://learn.adacore.com/) - Official tutorials and learning paths.
 
-#### Imperative & Procedural
+#### 3.3 Object-Oriented Languages
 
-* **C** – [Awesome C](https://github.com/inputsh/awesome-c)  
-* **Fortran** – [Fortran Tutorial on GitHub](https://github.com/j3-fortran/fortran_tutorial)  
-* **COBOL** – [Awesome COBOL](https://github.com/loveOSS/awesome-cobol) – libraries, frameworks, tools. 0  
-* **ALGOL** – (historic; use via Rosetta Code examples) 1  
-* **BASIC** – QB64 / Rosetta Code examples  
-* **Pascal** – Free Pascal tutorials  
-* **Ada** – AdaCore tutorials
+*   **Java** – [Awesome Java](https://github.com/akullpp/awesome-java) - Frameworks, libraries, and ecosystem tools.
+*   **C#** – [Awesome CSharp](https://github.com/uhub/awesome-csharp) - .NET ecosystem resources.
+*   **Ruby** – [Awesome Ruby](https://github.com/markets/awesome-ruby) - Gems, tools, and frameworks.
+*   **C++** – [Awesome C++](https://github.com/fffaraz/awesome-cpp) - Community libraries and practices.
+*   **Smalltalk** – [Pharo](https://pharo.org/) - Modern Smalltalk environment and tutorials.
 
-#### Object‑Oriented
+#### 3.4 Functional Languages
 
-* **Smalltalk** – Pharo Tutorials  
-* **Java** – [Awesome Java](https://github.com/akullpp/awesome-java)  
-* **C++** – See **3.2 C & C++** below.  
-* **C#** – [Awesome CSharp](https://github.com/uhub/awesome-csharp)  
-* **Ruby** – [Awesome Ruby](https://github.com/markets/awesome-ruby)  
-* **Delphi (Object Pascal)** – Delphi resources  
-* **Eiffel** – Official docs
+*   **Haskell** – [Awesome Haskell](https://github.com/krispo/awesome-haskell) - Pure functional ecosystem resources.
+*   **Clojure** – [Awesome Clojure](https://github.com/razum2um/awesome-clojure) - JVM-based functional tooling.
+*   **OCaml** – [OCaml](https://ocaml.org/) - Official documentation and learning guides.
+*   **F#** – [F#](https://fsharp.org/) - Functional programming on .NET.
+*   **Racket / Scheme** – [Racket](https://racket-lang.org/) - Lisp/Scheme language and SICP materials.
+*   **Erlang** – [Erlang](https://www.erlang.org/) - Concurrency-focused functional language.
+*   **Elixir** – [Elixir](https://elixir-lang.org/) - Modern functional language on the BEAM VM.
 
-#### Functional
+#### 3.5 Web & Modern Application Languages
 
-* **Lisp** / **Scheme** – Racket & SICP  
-* **Haskell** – [Awesome Haskell](https://github.com/krispo/awesome-haskell)  
-* **ML / OCaml / F#** – OCaml & F# docs  
-* **Clojure** – [Awesome Clojure](https://github.com/razum2um/awesome-clojure)  
-* **Erlang / Elixir** – Erlang & Elixir guides
+*   **JavaScript** – [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - Frontend and backend ecosystem.
+*   **TypeScript** – [Awesome TypeScript](https://github.com/dzharii/awesome-typescript) - Typed JavaScript tools and frameworks.
+*   **PHP** – [Awesome PHP](https://github.com/ziadoz/awesome-php) - Web development libraries and utilities.
+*   **Python** – [Awesome Python](https://github.com/vinta/awesome-python) - Frameworks, automation, and data science tools.
+*   **Dart** – [Dart](https://dart.dev/) - Official tutorials and Flutter ecosystem.
 
-#### Logic
+#### 3.6 Systems, Data & Emerging Languages
 
-* **Prolog & Datalog** – SWI‑Prolog + Rosetta Code logic tasks
+*   **Rust** – [Rust](https://www.rust-lang.org/) - Memory-safe systems programming resources.
+*   **Go** – [Go](https://go.dev/) - Concurrency-oriented backend development tools.
+*   **Zig** – [Zig](https://ziglang.org/) - Modern low-level systems language.
+*   **Nim** – [Nim](https://nim-lang.org/) - Efficient compiled systems language.
+*   **R** – [R Project](https://www.r-project.org/) - Statistical computing environment.
+*   **Julia** – [Julia](https://julialang.org/) - High-performance scientific computing.
+*   **Swift** – [Swift](https://swift.org/) - Apple ecosystem and server development.
+*   **Kotlin** – [Kotlin](https://kotlinlang.org/) - JVM and Android development.
 
----
+#### 3.7 Domain-Specific & Specialized Languages
 
-## Act II: Web & Modern Applications
-
-#### Frontend
-
-* **JavaScript/TypeScript** – [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript), [Awesome TypeScript](https://github.com/dzharii/awesome-typescript)  
-* **CoffeeScript** – Official docs  
-* **Dart** – Dart tutorials
-
-#### Backend & Full‑Stack
-
-* **Node.js** – [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)  
-* **PHP** – [Awesome PHP](https://github.com/ziadoz/awesome-php)  
-* **Python** – See **3.3 Python**  
-* **Java / Kotlin / Swift / Perl** – Official docs
-
-#### Data & Templates
-
-* **SQL** – SQLBolt interactive lessons  
-* **HTML/CSS** – MDN Learn Web Docs
-
----
-
-## Act III: Systems & Emerging
-
-* **Systems Programming:** Zig, Nim – [Awesome Zig](https://github.com/catdevnull/awesome-zig), [Awesome Nim](https://github.com/ringabout/awesome-nim)  
-* **Scientific & Data:** Py, R, Julia – R for Data Science & Julia learning guides  
-* **Mobile/Embedded:** Swift on server, Kotlin Android, MicroPython
-
----
-
-## Act IV: Domain‑Specific Languages
-
-#### Shell & Configuration
-
-* Bash / Zsh / PowerShell – [Awesome Shell](https://github.com/alebcay/awesome-shell)  
-* Vim script & Emacs Lisp – Editor scripting docs  
-* CMake / Makefile – Build tooling
-
-#### Hardware & Chips
-
-* **Verilog / VHDL / SystemVerilog** – [Awesome FPGA](https://github.com/FPGA-research/awesome-fpga)  
-* **Assembly** – Rosetta Code + PC assembly tutorials
-
-#### Modeling & Statistics
-
-* **R / Stan / MATLAB / Simulink**
-    * **Stan:** [Stan Tutorials](https://mc-stan.org/learn-stan/tutorials.html), [Stan User’s Guide](https://mc-stan.org/docs/2_18/stan-users-guide/) – probabilistic programming language docs and examples 2  
-    * **Simulink:** Official MathWorks docs
-
-#### Creative & Graphics
-
-* **Processing / p5.js / GLSL** – Processing, p5.js tutorials, GLSL shader examples
-
-#### Office & Automation
-
-* **VBA / AppleScript / AutoHotkey** – Official guides
-
-#### Academic & Historical
-
-* **APL / Forth / Logo / SNOBOL / MUMPS**
-    * **SNOBOL:** Historic symbolic language (examples in Rosetta Code) 3  
-    * **MUMPS:** Historic language (reference in historical lists) 4
-
----
-
-## Act V: Cutting‑Edge & Exploratory
-
-* **Concurrency & Distributed:** Erlang/Elixir, Go, Rust, Clojure resources  
-* **Blockchain:** Solidity & Vyper / Move docs  
-* **Query & Analysis:** SQL variants, **XQuery** – XML query language tutorials  
-* **Code Generation & Metaprogramming:** Terra, Racket
+*   **Solidity** – [Solidity](https://soliditylang.org/) - Ethereum smart contract language.
+*   **Vyper** – [Vyper](https://vyperlang.org/) - Pythonic smart contract language.
+*   **Move** – [Move](https://move-language.github.io/move/) - Blockchain smart contract language.
+*   **SQL** – [SQLBolt](https://sqlbolt.com/) - Interactive SQL learning.
+*   **XQuery** – [XQuery](https://www.w3.org/XML/Query/) - XML query language specification.
+*   **Verilog** – [Awesome Verilog](https://github.com/verilog-lang/awesome-verilog) - HDL tools and resources.
+*   **VHDL** – [VHDL Guide](https://vhdlguide.readthedocs.io/) - Hardware description tutorials.
+*   **Bash** – [Awesome Shell](https://github.com/alebcay/awesome-shell) - Shell scripting resources.
+*   **PowerShell** – [Awesome PowerShell](https://github.com/janikvonrotz/awesome-powershell) - Automation and tooling.
+*   **GLSL** – [The Book of Shaders](https://thebookofshaders.com/) - Shader programming tutorials.
+*   **Processing / p5.js** – [p5.js](https://p5js.org/) - Creative coding framework.
 
 ---
 
