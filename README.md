@@ -30,16 +30,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 - [Awesome Collections](#awesome-collections)
 - [Computer Science & Software Engineering](#computer-science--software-engineering)
-
 - [Programming Languages](#programming-languages)
-  - [Comprehensive & Multi-Language](#comprehensive--multi-language)
-  - [Imperative & Procedural](#imperative--procedural)
-  - [Object-Oriented](#object-oriented)
-  - [Functional](#functional)
-  - [Web & Modern Application](#web--modern-application)
-  - [Systems, Data & Emerging](#systems-data--emerging)
-  - [Domain-Specific & Specialized](#domain-specific--specialized)
-  
 - [Cybersecurity](#cybersecurity)
   - [Foundations & Entry Level](#foundations--entry-level)
   - [Reconnaissance & Information Gathering](#reconnaissance--information-gathering)
