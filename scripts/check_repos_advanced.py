@@ -4,7 +4,7 @@ import datetime
 from pathlib import Path
 
 import os
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN_CUSTOM", "")
+GITHUB_TOKEN = os.getenv("TOKEN_CUSTOM", "")
 HEADERS = {"Accept": "application/vnd.github+json"}
 if GITHUB_TOKEN:
     HEADERS["Authorization"] = f"Bearer {GITHUB_TOKEN}"
