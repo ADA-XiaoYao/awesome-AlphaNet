@@ -3,8 +3,7 @@ import requests
 import datetime
 from pathlib import Path
 import os
-
-GITHUB_TOKEN = os.getenv("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")
+GITHUB_TOKEN = os.getenv("TOKEN_CUSTOM")
 HEADERS = {
     "Accept": "application/vnd.github+json"
 }
