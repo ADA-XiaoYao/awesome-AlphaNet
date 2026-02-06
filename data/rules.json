@@ -1,0 +1,6 @@
+{
+  "minStars": 30,
+  "maxNoUpdateDays": 365,
+  "requireLicense": true,
+  "requireReadme": true
+}
