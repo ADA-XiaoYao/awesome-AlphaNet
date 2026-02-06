@@ -37,7 +37,7 @@ jobs:
       - name: Create/update auto PR
         uses: peter-evans/create-pull-request@v5
         with:
-          token: ${{ secrets.GITHUB_TOKEN_CUSTOM }}
+          token: ${{ secrets.TOKEN_CUSTOM }}
           commit-message: "Weekly Repo Check Reports [skip ci]"
           branch: "auto-update-reports"
           title: "Weekly Repo Check Reports"
