@@ -847,6 +847,95 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
+### Cloud Security
+
+- [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security) - A comprehensive list of resources i>
+- [Awesome Kubernetes Security](https://github.com/magnologan/awesome-k8s-security) - A list of Kubernetes security res>
+- [Awesome Container Security](https://github.com/kai5263499/awesome-container-security) - A list of container security>
+- [Awesome Cloud Native Security](https://github.com/Metarget/awesome-cloud-native-security) - A list of cloud-native s>
+- [Awesome-Serverless-Security](https://github.com/puresec/awesome-serverless-security) - A list of Serverless security>
+- [Cloud-Sec-List](https://github.com/cloud-security-list/cloud-security-list) - A list of cloud security tools, blogs,>
+- [Container-Security-Book](https://github.com/lizrice/container-security) - The book "Container Security" by Liz Rice.
+- [Hacking-Kubernetes](https://github.com/Hacking-Kubernetes/Hacking-Kubernetes) - The official repository for the book>
+- [Cloud-Native-Security-Whitepaper](https://github.com/cncf/tag-security/tree/main/security-whitepaper) - The Cloud Na>
+- [Deepce](https://github.com/zane-f/Deepce) - An exploitation tool for Docker/K8s.
+- [Docker-bench-security](https://github.com/docker/docker-bench-security) - A script that checks if Docker is deployed>
+- [Trivy](https://github.com/aquasecurity/trivy) - A simple and comprehensive vulnerability scanner for container image>
+- [Clair](https://github.com/quay/clair) - An open-source static analysis tool for vulnerabilities in container images.
+- [Grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems from Anchore.
+- [Dagda](https://github.com/eliasgranderubio/dagda) - Scans Docker images for known vulnerabilities, trojans, viruses,>
+- [Dive](https://github.com/wagoodman/dive) - A tool for exploring Docker/OCI images, layer contents, and discovering w>
+- [Hadolint](https://github.com/hadolint/hadolint) - A linter and static analysis tool for Dockerfiles.
+- [Slim](https://github.com/slimtoolkit/slim) - A tool for automatically slimming down Docker images to reduce the atta>
+- [Docker-escape-ctf](https://github.com/reni2/docker-escape-cve-2019-5736) - A PoC for the runC container escape vulne>
+- [Control-groups-in-containers](https://github.com/lizrice/cgroups-hands-on) - Hands-on learning for cgroups.
+- [Namespaces-in-Go](https://github.com/lizrice/namespaces-in-go) - Hands-on learning for namespaces.
+- [Sysdig](https://github.com/draios/sysdig) - A system-level exploration, monitoring, and troubleshooting tool that su>
+- [Kata-Containers](https://github.com/kata-containers/kata-containers) - A secure container runtime that provides stro>
+- [gVisor](https://github.com/google/gvisor) - An application kernel (sandbox) from Google that provides secure isolati>
+- [Container-security-checklist](https://github.com/krol3/container-security-checklist) - A container security checklis>
+- [Docker-Secure-Deployment-Guidelines](https://github.com/CISOfy/lynis/blob/master/controls/DOCK.md) - Docker secure d>
+- [Kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunts for security weaknesses in Kubernetes clusters.
+- [Kube-bench](https://github.com/aquasecurity/kube-bench) - A tool that checks if Kubernetes is deployed securely, bas>
+- [Kube-score](https://github.com/zegl/kube-score) - A static code analysis tool for Kubernetes object definitions.
+- [Kube-scan](https://github.com/octarinesec/kube-scan) - Scans Kubernetes clusters for risks and provides a score.
+- [Kubelet-attack](https://github.com/cncf/wg-security/blob/main/best-practices/kubernetes-pod-security.md) - Analysis >
+- [Kubescape](https://github.com/kubescape/kubescape) - The first tool for testing if Kubernetes is deployed based on t>
+- [Peirates](https://github.com/inguardians/peirates) - A Kubernetes penetration testing tool.
+- [CDK (Container-Device-Interface)](https://github.com/cdk-team/CDK) - CDK is a penetration testing tool customized fo>
+- [Helm-secrets](https://github.com/jkroepke/helm-secrets) - A plugin for managing secrets in Helm charts.
+- [Kyverno](https://github.com/kyverno/kyverno) - A policy engine designed for Kubernetes.
+- [OPA/Gatekeeper](https://github.com/open-policy-agent/gatekeeper) - A Kubernetes policy controller that uses Open Pol>
+- [Kube-apiserver-attack](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v2/Section-4-Kubernetes-Se>
+- [ETCD-Security](https://etcd.io/docs/v3.5/op-guide/security/) - The official etcd security guide.
+- [Kubernetes-Goat](https://github.com/madhuakula/kubernetes-goat) - An intentionally vulnerable Kubernetes cluster for>
+- [Kube-Linter](https://github.com/stackrox/kube-linter) - A static analysis tool for Kubernetes YAML files and Helm ch>
+- [Terrascan](https://github.com/tenable/terrascan) - Detects security issues in IaC, supporting Kubernetes.
+- [Checkov](https://github.com/bridgecrewio/checkov) - A static code analysis tool for IaC, supporting Kubernetes.
+- [Datree](https://github.com/datreeio/datree) - Prevents incorrect Kubernetes configurations from being pushed to prod>
+- [K9s](https://github.com/derailed/k9s) - A Kubernetes CLI for managing clusters, also useful for security reviews.
+- [Lens](https://github.com/lensapp/lens) - A Kubernetes IDE that provides powerful visualization and management capabi>
+- [Pacu](https://github.com/RhinoSecurityLabs/pacu) - An AWS exploitation framework.
+- [Cloud-sploit](https://github.com/aquasecurity/cloudsploit) - A security and compliance checking tool for AWS, Azure,>
+- [Prowler](https://github.com/prowler-cloud/prowler) - A tool for AWS security best practices assessment, auditing, ha>
+- [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - A multi-cloud security auditing tool.
+- [Cloud-enum](https://github.com/initstring/cloud_enum) - A multi-cloud OSINT enumeration tool.
+- [WeirdAAL](https://github.com/carnal0wnage/weirdAAL) - An AWS attack and reconnaissance tool.
+- [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) - Rhino Security Labs' "vulnerable by design" AWS deploym>
+- [TerraGoat](https://github.com/bridgecrewio/terragoat) - Bridgecrew's "vulnerable by design" Terraform project.
+- [Lambda-Guard](https://github.com/Skyscanner/LambdaGuard) - An AWS Lambda security scanner.
+- [GCP-Bucket-Brute](https://github.com/RhinoSecurityLabs/GCPBucketBrute) - A script to brute-force Google Cloud Storag>
+- [S3Scanner](https://github.com/sa7mon/S3Scanner) - Scans for misconfigured AWS S3 buckets.
+- [Cloud-mapper](https://github.com/VirtueSecurity/cloud-mapper) - Analyzes AWS environments and generates network diag>
+- [Steampipe](https://github.com/turbot/steampipe) - Use SQL to query your cloud infrastructure.
+- [Cartography](https://github.com/lyft/cartography) - Visualize infrastructure assets and their relationships in an in>
+- [ElectricEye](https://github.com/cisagov/ElectricEye) - Continuous AWS security auditing.
+- [Azure-Hunter](https://github.com/darkbitio/azure-hunter) - A threat hunting tool for the Azure platform.
+- [MicroBurst](https://github.com/NetSPI/MicroBurst) - A PowerShell toolkit for Azure services.
+- [Azucar](https://github.com/nccgroup/azucar) - A security auditing tool for the Azure platform.
+- [Checkov](https://github.com/bridgecrewio/checkov) - A static code analysis tool for IaC (Terraform, CloudFormation, >
+- [Terrascan](https://github.com/tenable/terrascan) - Detects security issues in IaC.
+- [Tfsec](https://github.com/aquasecurity/tfsec) - A static analysis security scanner for Terraform code.
+- [Kics](https://github.com/Checkmarx/kics) - Finds security vulnerabilities, compliance issues, and infrastructure mis>
+- [Regula](https://github.com/fugue/regula) - Evaluates Terraform and CloudFormation Infrastructure as Code for complia>
+- [Atlantis](https://github.com/runatlantis/atlantis) - Pull Request automation for Terraform.
+- [Argo CD](https://github.com/argoproj/argo-cd) - A declarative GitOps continuous delivery tool for Kubernetes.
+- [Flux](https://github.com/fluxcd/flux2) - A toolset for GitOps on Kubernetes.
+- [Awesome-IaC-Security](https://github.com/jens-classen/awesome-iac-security) - A list of IaC security resources.
+
+---
+
+### Vulnerability Discovery & Exploitation                                           
+*   [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A >
+*   [Awesome Pentesting](https://github.com/enaqx/awesome-pentesting) - A curated co>
+*   [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) - A curated >
+*   [Exploit Database](https://github.com/offensive-security/exploitdb) - The offici>
+*   [ProjectDiscovery Tools](https://github.com/projectdiscovery) - A collection of >
+*   [SecLists](https://github.com/danielmiessler/SecLists) - A collection of multipl>
+*   [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) - A curated list>
+
+---
+
 ### Code Auditing
 
 *   [Awesome Code Review](https://github.com/joho/awesome-code-review) - A curated list of tools, articles, and resources about code review.
@@ -865,6 +954,37 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 *   [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell Post-Exploitation Framework that includes several modules for privilege escalation.
 *   [LinEnum](https://github.com/rebootuser/LinEnum) - A scripted Linux local enumeration and privilege escalation checker.
 
+---
+
+### Evasion & Defense Bypass
+
+- [ScareCrow](https://github.com/optiv/ScareCrow) - An EDR evasion payload generatio>
+- [Shellcode-Loader](https://github.com/TheWover/donut) - Converts .NET assemblies i>
+- [Gargoyle](https://github.com/JLospinoso/gargoyle) - A tool that uses PEB obfuscat>
+- [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) - A Pow>
+- [AMSI.fail](https://amsi.fail/) - An online tool to generate PowerShell scripts th>
+- [Amsi-Bypass-Powershell](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell)>
+- [UAC-bypass](https://github.com/hfiref0x/UACME) - A collection of methods for bypa>
+- [SysWhispers2](https://github.com/jthuraisamy/SysWhispers2) - A tool to generate s>
+- [Hell's Gate](https://github.com/am0nsec/HellsGate) - A PoC for bypassing EDR usin>
+- [SharpBlock](https://github.com/gaasedelen/SharpBlock) - A tool to block EDR from >
+- [Invisibility-Cloak](https://github.com/peewpw/Invoke-PSImage) - Encodes a PowerSh>
+- [Unhooking-Patching-EDR-Bypass](https://github.com/TheD1rkMtr/Unhooking-Patching-E>
+- [Reflective-DLL-Injection](https://github.com/stephenfewer/ReflectiveDLLInjection)>
+- [Process-Injection](https://github.com/s3cur3th1ssh1t/Process-Injection) - A colle>
+- [Process-Hollowing](https://github.com/m0n0ph1/Process-Hollowing) - A PoC for the >
+- [Phantom-Evasion](https://github.com/oddcod3/Phantom-Evasion) - An antivirus evasi>
+- [Veil-Framework](https://github.com/Veil-Framework/Veil) - Generates Metasploit pa>
+- [The-Backdoor-Factory](https://github.com/secretsquirrel/the-backdoor-factory) - P>
+- [Al-Khaser](https://github.com/LordNoteworthy/al-khaser) - A PoC for anti-debuggin>
+- [Vba-obfuscator](https://github.com/decalage2/VBA-obfuscator) - A VBA macro obfusc>
+- [Evil-Office](https://github.com/the-xentropy/xencrypt) - An Office document encry>
+- [DKMC (Don't Kill My Cat)](https://github.com/Mr-Un1k0d3r/DKMC) - A shellcode obfu>
+- [Nim-Shellcode-Loader](https://github.com/a-rey/Nim-Shellcode-Loader) - A shellcod>
+- [Freeze](https://github.com/optiv/Freeze) - A payload toolkit that uses various te>
+
+---
+
 ### Binary Modification & Repackaging
 
 *   [Awesome Reverse Engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - A curated list of resources, frameworks, and tools for reverse engineering.
@@ -873,6 +993,26 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 *   [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for Windows.
 *   [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android APK files, allowing for modification and repackaging.
 *   [Frida](https://github.com/frida/frida) - A dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+
+---
+
+### Weaponization & Tooling
+
+- [Metasploit's msfvenom](https://docs.metasploit.com/docs/using-metasploit/basics/how-to-u>
+- [Donut](https://github.com/TheWover/donut) - Converts .NET assemblies into shellcode.
+- [Macro-Pack](https://github.com/sevagas/macro_pack) - A tool for automatically generating>
+- [Unicorn](https://github.com/trustedsec/unicorn) - A tool for PowerShell downgrade attack>
+- [HTA-Attack](https://github.com/trustedsec/unicorn/blob/master/unicorn.py) - Unicorn can >
+- [Social-Engineer-Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit) - >
+- [Certutil-Payloads](https://lolbas-project.github.io/lolbas/Binaries/Certutil/) - Using c>
+- [PowerShell-Armory](https://github.com/cfalta/PowerShellArmory) - PowerShell weaponizatio>
+- [Malicious-Macro-Generator](https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator) - A m>
+- [GadgetToJScript](https://github.com/med0x2e/GadgetToJScript) - Generates .NET deserializ>
+- [CACTUSTORCH](https://github.com/mdsecactivebreach/CACTUSTORCH) - VBScript and JScript fo>
+- [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) - A payload creation fr>
+- [DotNetToJScript](https://github.com/tyranid/DotNetToJScript) - A tool to convert .NET as>
+
+---
 
 ### Internal Network Security
 
@@ -886,93 +1026,21 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### Vulnerability Discovery & Exploitation
+### Persistence Techniques
 
-*   [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A comprehensive list of useful payloads and bypasses for Web Application Security testing.
-*   [Awesome Pentesting](https://github.com/enaqx/awesome-pentesting) - A curated collection of awesome penetration testing resources, tools, and other shiny things.
-*   [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) - A curated list of bug bounty programs, resources, and tools for security researchers.
-*   [Exploit Database](https://github.com/offensive-security/exploitdb) - The official Exploit Database repository from Offensive Security, containing a vast collection of public exploits.
-*   [ProjectDiscovery Tools](https://github.com/projectdiscovery) - A collection of powerful tools for vulnerability discovery and reconnaissance, such as `nuclei`, `httpx`, and `subfinder`.
-*   [SecLists](https://github.com/danielmiessler/SecLists) - A collection of multiple types of lists used during security assessments, from usernames and passwords to web shells and fuzzing payloads.
-*   [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome hacking tutorials, tools and resources.
-
----
-
-### Cloud Security
-
-- [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security) - A comprehensive list of resources in the field of cloud security.
-- [Awesome Kubernetes Security](https://github.com/magnologan/awesome-k8s-security) - A list of Kubernetes security resources.
-- [Awesome Container Security](https://github.com/kai5263499/awesome-container-security) - A list of container security resources.
-- [Awesome Cloud Native Security](https://github.com/Metarget/awesome-cloud-native-security) - A list of cloud-native security resources.
-- [Awesome-Serverless-Security](https://github.com/puresec/awesome-serverless-security) - A list of Serverless security resources.
-- [Cloud-Sec-List](https://github.com/cloud-security-list/cloud-security-list) - A list of cloud security tools, blogs, events, etc.
-- [Container-Security-Book](https://github.com/lizrice/container-security) - The book "Container Security" by Liz Rice.
-- [Hacking-Kubernetes](https://github.com/Hacking-Kubernetes/Hacking-Kubernetes) - The official repository for the book "Hacking Kubernetes".
-- [Cloud-Native-Security-Whitepaper](https://github.com/cncf/tag-security/tree/main/security-whitepaper) - The Cloud Native Security Whitepaper from the CNCF Security Technical Advisory Group.
-- [Deepce](https://github.com/zane-f/Deepce) - An exploitation tool for Docker/K8s.
-- [Docker-bench-security](https://github.com/docker/docker-bench-security) - A script that checks if Docker is deployed following security best practices.
-- [Trivy](https://github.com/aquasecurity/trivy) - A simple and comprehensive vulnerability scanner for container images, filesystems, and Git repositories.
-- [Clair](https://github.com/quay/clair) - An open-source static analysis tool for vulnerabilities in container images.
-- [Grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems from Anchore.
-- [Dagda](https://github.com/eliasgranderubio/dagda) - Scans Docker images for known vulnerabilities, trojans, viruses, etc.
-- [Dive](https://github.com/wagoodman/dive) - A tool for exploring Docker/OCI images, layer contents, and discovering ways to shrink the image size.
-- [Hadolint](https://github.com/hadolint/hadolint) - A linter and static analysis tool for Dockerfiles.
-- [Slim](https://github.com/slimtoolkit/slim) - A tool for automatically slimming down Docker images to reduce the attack surface.
-- [Docker-escape-ctf](https://github.com/reni2/docker-escape-cve-2019-5736) - A PoC for the runC container escape vulnerability (CVE-2019-5736).
-- [Control-groups-in-containers](https://github.com/lizrice/cgroups-hands-on) - Hands-on learning for cgroups.
-- [Namespaces-in-Go](https://github.com/lizrice/namespaces-in-go) - Hands-on learning for namespaces.
-- [Sysdig](https://github.com/draios/sysdig) - A system-level exploration, monitoring, and troubleshooting tool that supports containers.
-- [Kata-Containers](https://github.com/kata-containers/kata-containers) - A secure container runtime that provides stronger isolation using lightweight virtual machines.
-- [gVisor](https://github.com/google/gvisor) - An application kernel (sandbox) from Google that provides secure isolation for containers.
-- [Container-security-checklist](https://github.com/krol3/container-security-checklist) - A container security checklist.
-- [Docker-Secure-Deployment-Guidelines](https://github.com/CISOfy/lynis/blob/master/controls/DOCK.md) - Docker secure deployment guidelines.
-- [Kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunts for security weaknesses in Kubernetes clusters.
-- [Kube-bench](https://github.com/aquasecurity/kube-bench) - A tool that checks if Kubernetes is deployed securely, based on the CIS Kubernetes Benchmark.
-- [Kube-score](https://github.com/zegl/kube-score) - A static code analysis tool for Kubernetes object definitions.
-- [Kube-scan](https://github.com/octarinesec/kube-scan) - Scans Kubernetes clusters for risks and provides a score.
-- [Kubelet-attack](https://github.com/cncf/wg-security/blob/main/best-practices/kubernetes-pod-security.md) - Analysis of the Kubelet attack surface.
-- [Kubescape](https://github.com/kubescape/kubescape) - The first tool for testing if Kubernetes is deployed based on the NSA and CISA K8s Hardening Guidance.
-- [Peirates](https://github.com/inguardians/peirates) - A Kubernetes penetration testing tool.
-- [CDK (Container-Device-Interface)](https://github.com/cdk-team/CDK) - CDK is a penetration testing tool customized for container environments.
-- [Helm-secrets](https://github.com/jkroepke/helm-secrets) - A plugin for managing secrets in Helm charts.
-- [Kyverno](https://github.com/kyverno/kyverno) - A policy engine designed for Kubernetes.
-- [OPA/Gatekeeper](https://github.com/open-policy-agent/gatekeeper) - A Kubernetes policy controller that uses Open Policy Agent.
-- [Kube-apiserver-attack](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v2/Section-4-Kubernetes-Security.md#41-api-server) - Analysis of the Kube-apiserver attack surface.
-- [ETCD-Security](https://etcd.io/docs/v3.5/op-guide/security/) - The official etcd security guide.
-- [Kubernetes-Goat](https://github.com/madhuakula/kubernetes-goat) - An intentionally vulnerable Kubernetes cluster for learning purposes.
-- [Kube-Linter](https://github.com/stackrox/kube-linter) - A static analysis tool for Kubernetes YAML files and Helm charts.
-- [Terrascan](https://github.com/tenable/terrascan) - Detects security issues in IaC, supporting Kubernetes.
-- [Checkov](https://github.com/bridgecrewio/checkov) - A static code analysis tool for IaC, supporting Kubernetes.
-- [Datree](https://github.com/datreeio/datree) - Prevents incorrect Kubernetes configurations from being pushed to production.
-- [K9s](https://github.com/derailed/k9s) - A Kubernetes CLI for managing clusters, also useful for security reviews.
-- [Lens](https://github.com/lensapp/lens) - A Kubernetes IDE that provides powerful visualization and management capabilities.
-- [Pacu](https://github.com/RhinoSecurityLabs/pacu) - An AWS exploitation framework.
-- [Cloud-sploit](https://github.com/aquasecurity/cloudsploit) - A security and compliance checking tool for AWS, Azure, GCP, and Oracle Cloud.
-- [Prowler](https://github.com/prowler-cloud/prowler) - A tool for AWS security best practices assessment, auditing, hardening, and incident response.
-- [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - A multi-cloud security auditing tool.
-- [Cloud-enum](https://github.com/initstring/cloud_enum) - A multi-cloud OSINT enumeration tool.
-- [WeirdAAL](https://github.com/carnal0wnage/weirdAAL) - An AWS attack and reconnaissance tool.
-- [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) - Rhino Security Labs' "vulnerable by design" AWS deployment tool.
-- [TerraGoat](https://github.com/bridgecrewio/terragoat) - Bridgecrew's "vulnerable by design" Terraform project.
-- [Lambda-Guard](https://github.com/Skyscanner/LambdaGuard) - An AWS Lambda security scanner.
-- [GCP-Bucket-Brute](https://github.com/RhinoSecurityLabs/GCPBucketBrute) - A script to brute-force Google Cloud Storage bucket names.
-- [S3Scanner](https://github.com/sa7mon/S3Scanner) - Scans for misconfigured AWS S3 buckets.
-- [Cloud-mapper](https://github.com/VirtueSecurity/cloud-mapper) - Analyzes AWS environments and generates network diagrams.
-- [Steampipe](https://github.com/turbot/steampipe) - Use SQL to query your cloud infrastructure.
-- [Cartography](https://github.com/lyft/cartography) - Visualize infrastructure assets and their relationships in an intuitive graph.
-- [ElectricEye](https://github.com/cisagov/ElectricEye) - Continuous AWS security auditing.
-- [Azure-Hunter](https://github.com/darkbitio/azure-hunter) - A threat hunting tool for the Azure platform.
-- [MicroBurst](https://github.com/NetSPI/MicroBurst) - A PowerShell toolkit for Azure services.
-- [Azucar](https://github.com/nccgroup/azucar) - A security auditing tool for the Azure platform.
-- [Checkov](https://github.com/bridgecrewio/checkov) - A static code analysis tool for IaC (Terraform, CloudFormation, Kubernetes, etc.).
-- [Terrascan](https://github.com/tenable/terrascan) - Detects security issues in IaC.
-- [Tfsec](https://github.com/aquasecurity/tfsec) - A static analysis security scanner for Terraform code.
-- [Kics](https://github.com/Checkmarx/kics) - Finds security vulnerabilities, compliance issues, and infrastructure misconfigurations in IaC.
-- [Regula](https://github.com/fugue/regula) - Evaluates Terraform and CloudFormation Infrastructure as Code for compliance.
-- [Atlantis](https://github.com/runatlantis/atlantis) - Pull Request automation for Terraform.
-- [Argo CD](https://github.com/argoproj/argo-cd) - A declarative GitOps continuous delivery tool for Kubernetes.
-- [Flux](https://github.com/fluxcd/flux2) - A toolset for GitOps on Kubernetes.
-- [Awesome-IaC-Security](https://github.com/jens-classen/awesome-iac-security) - A list of IaC security resources.
+- [Awesome-Persistence](https://github.com/Karneades/awesome-persistence) - A resource list>
+- [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) - A library of small, p>
+- [SharpPersist](https://github.com/fireeye/SharpPersist) - A .NET assembly for implementin>
+- [Persistence-Sniper](https://github.com/last-byte/Persistence-Sniper) - A PowerShell scri>
+- [Python-for-Red-Teaming](https://github.com/nassiben/Red-Team-Python-Tooling) - Python to>
+- [Schtasks-persistence](https://attack.mitre.org/techniques/T1053/005/) - Persistence usin>
+- [WMI-Persistence](https://github.com/fireeye/SharPersist/blob/master/SharPersist/SharPers>
+- [Registry-RunKeys-Persistence](https://attack.mitre.org/techniques/T1547/001/) - Persiste>
+- [DLL-Hijacking](https://github.com/KINGSABRI/DLL-Hijacking-Hunter) - DLL Hijacking Hunter.
+- [COM-Hijacking](https://github.com/tyranid/oleviewdotnet) - A .NET tool for viewing and d>
+- [Powershell-Persistence-Cookbook](https://github.com/darkoperator/Posh-Sec-Mod/blob/maste>
+- [Weevely](https://github.com/epinna/weevely3) - A stealthy PHP webshell, a common persist>
+- [AntSword](https://github.com/AntSwordProject/antSword) - A webshell management tool, use>
 
 ---
 
@@ -1017,22 +1085,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [GoPhish](https://github.com/gophish/gophish) - An open-source phishing framework, often used for initial access.
 - [Evilginx2](https://github.com/kgretzky/evilginx2) - A man-in-the-middle attack framework for phishing credentials and session hijacking.
 
-#### Persistence Techniques
-
-- [Awesome-Persistence](https://github.com/Karneades/awesome-persistence) - A resource list for persistence techniques.
-- [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) - A library of small, portable detection tests mapped to the MITRE ATT&CK framework, including many persistence techniques.
-- [SharpPersist](https://github.com/fireeye/SharpPersist) - A .NET assembly for implementing Windows persistence.
-- [Persistence-Sniper](https://github.com/last-byte/Persistence-Sniper) - A PowerShell script to hunt for persistence backdoors on Windows.
-- [Python-for-Red-Teaming](https://github.com/nassiben/Red-Team-Python-Tooling) - Python tools for red teaming, including persistence scripts.
-- [Schtasks-persistence](https://attack.mitre.org/techniques/T1053/005/) - Persistence using scheduled tasks.
-- [WMI-Persistence](https://github.com/fireeye/SharPersist/blob/master/SharPersist/SharPersist.cs) - Persistence using WMI event subscriptions.
-- [Registry-RunKeys-Persistence](https://attack.mitre.org/techniques/T1547/001/) - Persistence using registry run keys.
-- [DLL-Hijacking](https://github.com/KINGSABRI/DLL-Hijacking-Hunter) - DLL Hijacking Hunter.
-- [COM-Hijacking](https://github.com/tyranid/oleviewdotnet) - A .NET tool for viewing and decompiling OLE/COM objects, useful for finding hijacking opportunities.
-- [Powershell-Persistence-Cookbook](https://github.com/darkoperator/Posh-Sec-Mod/blob/master/Post-Exploitation/Persistence.ps1) - A PowerShell persistence script collection.
-- [Weevely](https://github.com/epinna/weevely3) - A stealthy PHP webshell, a common persistence method on web servers.
-- [AntSword](https://github.com/AntSwordProject/antSword) - A webshell management tool, used to maintain access.
-
 #### Internal Network Security (Lateral Movement)
 
 - [Impacket](https://github.com/fortra/impacket) - Contains `psexec.py`, `smbexec.py`, `wmiexec.py`, and many other lateral movement scripts.
@@ -1053,48 +1105,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell.
 - [PsExec](https://docs.microsoft.com/en-us/sysinternals/downloads/psexec) - The official PsExec from Microsoft.
 
-#### Evasion & Defense Bypass
-
-- [ScareCrow](https://github.com/optiv/ScareCrow) - An EDR evasion payload generation framework.
-- [Shellcode-Loader](https://github.com/TheWover/donut) - Converts .NET assemblies into shellcode.
-- [Gargoyle](https://github.com/JLospinoso/gargoyle) - A tool that uses PEB obfuscation and encryption to bypass memory scanning.
-- [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) - A PowerShell command obfuscation framework.
-- [AMSI.fail](https://amsi.fail/) - An online tool to generate PowerShell scripts that bypass AMSI (Antimalware Scan Interface).
-- [Amsi-Bypass-Powershell](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell) - A collection of methods for bypassing AMSI.
-- [UAC-bypass](https://github.com/hfiref0x/UACME) - A collection of methods for bypassing Windows UAC.
-- [SysWhispers2](https://github.com/jthuraisamy/SysWhispers2) - A tool to generate system calls directly without using the Windows API.
-- [Hell's Gate](https://github.com/am0nsec/HellsGate) - A PoC for bypassing EDR using the Hell's Gate technique.
-- [SharpBlock](https://github.com/gaasedelen/SharpBlock) - A tool to block EDR from hooking .NET assemblies.
-- [Invisibility-Cloak](https://github.com/peewpw/Invoke-PSImage) - Encodes a PowerShell script into the pixels of a PNG image and executes it.
-- [Unhooking-Patching-EDR-Bypass](https://github.com/TheD1rkMtr/Unhooking-Patching-EDR-Bypass) - EDR bypass techniques.
-- [Reflective-DLL-Injection](https://github.com/stephenfewer/ReflectiveDLLInjection) - The reflective DLL injection technique.
-- [Process-Injection](https://github.com/s3cur3th1ssh1t/Process-Injection) - A collection of process injection techniques.
-- [Process-Hollowing](https://github.com/m0n0ph1/Process-Hollowing) - A PoC for the process hollowing technique.
-- [Phantom-Evasion](https://github.com/oddcod3/Phantom-Evasion) - An antivirus evasion tool written in Python.
-- [Veil-Framework](https://github.com/Veil-Framework/Veil) - Generates Metasploit payloads that bypass common antivirus software.
-- [The-Backdoor-Factory](https://github.com/secretsquirrel/the-backdoor-factory) - Patches executable binaries with shellcode.
-- [Al-Khaser](https://github.com/LordNoteworthy/al-khaser) - A PoC for anti-debugging and anti-VM detection.
-- [Vba-obfuscator](https://github.com/decalage2/VBA-obfuscator) - A VBA macro obfuscation tool.
-- [Evil-Office](https://github.com/the-xentropy/xencrypt) - An Office document encryption and obfuscation tool.
-- [DKMC (Don't Kill My Cat)](https://github.com/Mr-Un1k0d3r/DKMC) - A shellcode obfuscation and generation tool.
-- [Nim-Shellcode-Loader](https://github.com/a-rey/Nim-Shellcode-Loader) - A shellcode loader written in the Nim language.
-- [Freeze](https://github.com/optiv/Freeze) - A payload toolkit that uses various techniques to evade EDR and AV.
-
-#### Weaponization & Tooling
-
-- [Metasploit's msfvenom](https://docs.metasploit.com/docs/using-metasploit/basics/how-to-use-msfvenom.html) - Metasploit's payload generator.
-- [Donut](https://github.com/TheWover/donut) - Converts .NET assemblies into shellcode.
-- [Macro-Pack](https://github.com/sevagas/macro_pack) - A tool for automatically generating obfuscated MS Office macros, VBS scripts, etc.
-- [Unicorn](https://github.com/trustedsec/unicorn) - A tool for PowerShell downgrade attacks and injecting shellcode directly into memory.
-- [HTA-Attack](https://github.com/trustedsec/unicorn/blob/master/unicorn.py) - Unicorn can generate HTA attack vectors.
-- [Social-Engineer-Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit) - An open-source penetration testing framework designed for social engineering.
-- [Certutil-Payloads](https://lolbas-project.github.io/lolbas/Binaries/Certutil/) - Using certutil.exe to download and execute payloads.
-- [PowerShell-Armory](https://github.com/cfalta/PowerShellArmory) - PowerShell weaponization scripts.
-- [Malicious-Macro-Generator](https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator) - A malicious macro generator.
-- [GadgetToJScript](https://github.com/med0x2e/GadgetToJScript) - Generates .NET deserialization payloads for use in JScript/VBScript.
-- [CACTUSTORCH](https://github.com/mdsecactivebreach/CACTUSTORCH) - VBScript and JScript for executing shellcode.
-- [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) - A payload creation framework for retrieving and executing arbitrary C# source code.
-- [DotNetToJScript](https://github.com/tyranid/DotNetToJScript) - A tool to convert .NET assemblies into JScript/VBScript/VBA.
 
 #### APT Reports & Adversary Emulation
 
