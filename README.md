@@ -221,6 +221,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 *   [Awesome-LLVM](https://github.com/HongxuChen/awesome-llvm) - LLVM-related resources.
 *   [Linux-Insides](https://github.com/0xAX/linux-insides) - Deep dive into the Linux kernel.
 *   [What Happens When You Type a URL in the Browser](https://github.com/alex/what-happens-when) - What happens after typing a URL in a browser.
+*   [Awesome Networking](https://github.com/facyber/awesome-networking) - A curated list of computer networking tutorials, courses, books, and resources, covering everything from fundamentals to advanced network topics.
 
 #### 2.6 Databases
 
