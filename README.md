@@ -26,48 +26,49 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-## Table of Contents
+## Contents
 
-- [Awesome Collections](#1-awesome-collections)
-  - [Meta Lists & General](#11-meta-lists-general)
-  - [Platforms & Ecosystems](#12-platforms-ecosystems)
-  - [Awesome Programming Languages](#13-awesome-programming-languages)
+[Awesome Collections](#1-awesome-collections)
+  [Meta Lists & General](#11-meta-lists-general)
+  [Platforms & Ecosystems](#12-platforms-ecosystems)
+  [Awesome Programming Languages](#13-awesome-programming-languages)
+[Computer Science & Software Engineering](#2-computer-science-software-engineering)
+[Programming Languages](#3-programming-languages)
+[Cybersecurity](#4-cybersecurity)
+  [Foundations & Entry Level](#41-foundations-entry-level)
+  [Reconnaissance & Information Gathering](#42-reconnaissance-information-gathering)
+  [Secure Development](#43-secure-development)
+  [Web Security](#44-web-security)
+  [JavaScript Reverse Engineering](#45-javascript-reverse-engineering)
+  [Java Security](#46-java-security)
+  [Web3 & Blockchain Security](#47-web3-blockchain-security)
+  [API Security](#48-api-security)
+  [Service & Middleware Security](#49-service-middleware-security)
+  [Mobile Application Security](#410-mobile-application-security)
+  [System Security](#411-system-security)
+  [Cloud Security](#412-cloud-security)
+  [Vulnerability Discovery & Exploitation](#413-vulnerability-discovery-exploitation)
+  [Code Auditing](#414-code-auditing)
+  [Privilege Escalation](#415-privilege-escalation)
+  [Evasion & Defense Bypass](#416-evasion-defense-bypass)
+  [Binary Modification & Repackaging](#417-binary-modification-repackaging)
+  [Weaponization & Tooling](#418-weaponization-tooling)
+  [Internal Network Security](#419-internal-network-security)
+  [Persistence Techniques](#420-persistence-techniques)
+  [Red Team & APT Operations](#421-red-team-apt-operations)
+  [Incident Response – Basic](#422-incident-response-basic)
+  [Incident Response – Advanced](#423-incident-response-advanced)
+  [Binary Reverse Engineering](#424-binary-reverse-engineering)
+  [Device & Infrastructure Deployment](#425-device-infrastructure-deployment)
+  [Traffic Analysis](#426-traffic-analysis)
+  [Rule & Signature Development](#427-rule-signature-development)
+  [Attribution & Counter-Operations](#428-attribution-counter-operations)
+  [SRC Programs](#429-src-programs)
+  [CTF Resources](#430-ctf-resources)
+[Artificial Intelligence & Data Science](#5-artificial-intelligence-data-science)
+[Developer Tools & Career Growth](#6-developer-tools-career-growth)
 
-- [Computer Science & Software Engineering](#2-computer-science-software-engineering)
-- [Programming Languages](#3-programming-languages)
-- [Cybersecurity](#4-cybersecurity)
-  - [Foundations & Entry Level](#41-foundations-entry-level)
-  - [Reconnaissance & Information Gathering](#42-reconnaissance-information-gathering)
-  - [Secure Development](#43-secure-development)
-  - [Web Security](#44-web-security)
-  - [JavaScript Reverse Engineering](#45-javascript-reverse-engineering)
-  - [Java Security](#46-java-security)
-  - [Web3 & Blockchain Security](#47-web3-blockchain-security)
-  - [API Security](#48-api-security)
-  - [Service & Middleware Security](#49-service-middleware-security)
-  - [Mobile Application Security](#410-mobile-application-security)
-  - [System Security](#411-system-security)
-  - [Cloud Security](#412-cloud-security)
-  - [Vulnerability Discovery & Exploitation](#413-vulnerability-discovery-exploitation)
-  - [Code Auditing](#414-code-auditing)
-  - [Privilege Escalation](#415-privilege-escalation)
-  - [Evasion & Defense Bypass](#416-evasion-defense-bypass)
-  - [Binary Modification & Repackaging](#417-binary-modification-repackaging)
-  - [Weaponization & Tooling](#418-weaponization-tooling)
-  - [Internal Network Security](#419-internal-network-security)
-  - [Persistence Techniques](#420-persistence-techniques)
-  - [Red Team & APT Operations](#421-red-team-apt-operations)
-  - [Incident Response – Basic](#422-incident-response-basic)
-  - [Incident Response – Advanced](#423-incident-response-advanced)
-  - [Binary Reverse Engineering](#424-binary-reverse-engineering)
-  - [Device & Infrastructure Deployment](#425-device-infrastructure-deployment)
-  - [Traffic Analysis](#426-traffic-analysis)
-  - [Rule & Signature Development](#427-rule-signature-development)
-  - [Attribution & Counter-Operations](#428-attribution-counter-operations)
-  - [SRC Programs](#429-src-programs)
-  - [CTF Resources](#430-ctf-resources)
-- [Artificial Intelligence & Data Science](#5-artificial-intelligence-data-science)
-- [Developer Tools & Career Growth](#6-developer-tools-career-growth)
+---
 
 ---
 
@@ -198,7 +199,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Crafting Interpreters](https://github.com/munificent/craftinginterpreters) - Open-source version of *Crafting Interpreters*.
 - [Writing an OS in Rust](https://github.com/phil-opp/blog_os) - Blog series on building an OS in Rust.
 - [The little book about OS development](https://github.com/littleosbook/littleosbook) - A small book on OS development.
-- [xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - MIT’s teaching OS xv6 for RISC-V.
+- [xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - MIT’s teaching operating system xv6 for RISC-V.
 - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Classic operating systems textbook.
 - [Awesome-LLVM](https://github.com/HongxuChen/awesome-llvm) - LLVM-related resources.
 - [Linux-Insides](https://github.com/0xAX/linux-insides) - Deep dive into the Linux kernel.
@@ -778,7 +779,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Helm-secrets](https://github.com/jkroepke/helm-secrets) - A plugin for managing secrets in Helm charts.
 - [Kyverno](https://github.com/kyverno/kyverno) - A policy engine designed for Kubernetes.
 - [OPA/Gatekeeper](https://github.com/open-policy-agent/gatekeeper) - A Kubernetes policy controller that uses Open Pol>.
-- [Kube-apiserver-attack](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v2/Section-4-Kubernetes-Se>
+- [Kube-apiserver-attack](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v2/Section-4-Kubernetes-Se)
 - [ETCD-Security](https://etcd.io/docs/v3.5/op-guide/security/) - The official etcd security guide.
 - [Kubernetes-Goat](https://github.com/madhuakula/kubernetes-goat) - An intentionally vulnerable Kubernetes cluster for>.
 - [Kube-Linter](https://github.com/stackrox/kube-linter) - A static analysis tool for Kubernetes YAML files and Helm ch>.
@@ -844,7 +845,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Hell's Gate](https://github.com/am0nsec/HellsGate) - A PoC for bypassing EDR usin>.
 - [SharpBlock](https://github.com/gaasedelen/SharpBlock) - A tool to block EDR from >.
 - [Invisibility-Cloak](https://github.com/peewpw/Invoke-PSImage) - Encodes a PowerSh>.
-- [Unhooking-Patching-EDR-Bypass](https://github.com/TheD1rkMtr/Unhooking-Patching-E>
+- [Unhooking-Patching-EDR-Bypass](https://github.com/TheD1rkMtr/Unhooking-Patching-E)
 - [Reflective-DLL-Injection](https://github.com/stephenfewer/ReflectiveDLLInjection) - >.
 - [Process-Injection](https://github.com/s3cur3th1ssh1t/Process-Injection) - A colle>.
 - [Process-Hollowing](https://github.com/m0n0ph1/Process-Hollowing) - A PoC for the >.
@@ -872,7 +873,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ### 4.18 Weaponization & Tooling
 
-- [Metasploit's msfvenom](https://docs.metasploit.com/docs/using-metasploit/basics/how-to-u>
+- [Metasploit's msfvenom](https://docs.metasploit.com/docs/using-metasploit/basics/how-to-u)
 - [Macro-Pack](https://github.com/sevagas/macro_pack) - A tool for automatically generating>.
 - [Unicorn](https://github.com/trustedsec/unicorn) - A tool for PowerShell downgrade attack>.
 - [HTA-Attack](https://github.com/trustedsec/unicorn/blob/master/unicorn.py) - Unicorn can >.
@@ -901,11 +902,11 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Persistence-Sniper](https://github.com/last-byte/Persistence-Sniper) - A PowerShell scri>.
 - [Python-for-Red-Teaming](https://github.com/nassiben/Red-Team-Python-Tooling) - Python to>.
 - [Schtasks-persistence](https://attack.mitre.org/techniques/T1053/005/) - Persistence usin>.
-- [WMI-Persistence](https://github.com/fireeye/SharPersist/blob/master/SharPersist/SharPers>
+- [WMI-Persistence](https://github.com/fireeye/SharPersist/blob/master/SharPersist/SharPers)
 - [Registry-RunKeys-Persistence](https://attack.mitre.org/techniques/T1547/001/) - Persiste>.
 - [DLL-Hijacking](https://github.com/KINGSABRI/DLL-Hijacking-Hunter) - DLL Hijacking Hunter.
 - [COM-Hijacking](https://github.com/tyranid/oleviewdotnet) - A .NET tool for viewing and d>.
-- [Powershell-Persistence-Cookbook](https://github.com/darkoperator/Posh-Sec-Mod/blob/maste>
+- [Powershell-Persistence-Cookbook](https://github.com/darkoperator/Posh-Sec-Mod/blob/maste)
 
 ---
 
@@ -1509,7 +1510,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [TensorFlow](https://github.com/tensorflow/tensorflow) - End-to-end open-source machine learning platform by Google.
 - [PyTorch](https://github.com/pytorch/pytorch) - Open-source ML framework by Meta, known for flexibility and dynamic computation.
 - [Keras](https://github.com/keras-team/keras) - High-level neural networks API, compatible with TensorFlow, PyTorch, and more.
-- [Scikit-learn](https://github.com/scikit-learn/scikit-learn) - Popular library for classical ML in Python.
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn) - Popular library for classical ML in Python.
 - [JAX](https://github.com/google/jax) - High-performance numerical computing library from Google, NumPy compatible.
 - [MXNet](https://github.com/apache/mxnet) - Deep learning framework by Apache.
 - [Caffe](https://github.com/BVLC/caffe) - Deep learning framework developed by Berkeley AI Research.
