@@ -1,5 +1,5 @@
 <div align="center"
-  <img src="Media/banner.jpg" alt="Awesome Alfadi Banner" width="100%" style="max-width:1200px; height:auto; border-radius:12px;"
+  <img src="Media/banner.jpg" alt="Awesome Alfadi Banner" width="100%" style="max-width:1200px; height:auto; border-radius:12px;">
   </div>
 
 <div align="center">
