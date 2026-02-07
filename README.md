@@ -1,14 +1,14 @@
 <div align="center">
   <img src="Media/banner.jpg" alt="Awesome Alfadi Banner" width="100%" style="max-width:1200px; height:auto; border-radius:12px;">
-  </div>
+</div>
 
 <div align="center">
   <h1>
-    Awesome AlphaNet 
+    Awesome Alfadi 
     <a href="https://awesome.re">
       <img src="https://awesome.re/badge.svg" alt="Awesome Badge" style="height:30px; vertical-align:middle;">
-  </a>
-</h1>
+    </a>
+  </h1>
 </div>
 
 **A carefully selected, comprehensive learning list covering computer science, programming languages, and cybersecurity. Enabling everyone to become a top expert in their field.**
@@ -28,44 +28,48 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ## Table of Contents
 
-- [Awesome Collections](#1-awesome-collections)
-- [Computer Science & Software Engineering](#computer-science--software-engineering)
-- [Programming Languages](#3-programming-languages)
+[Awesome Collections](#1-awesome-collections)
+  [Meta Lists & General](#11-meta-lists-general)
+  [Platforms & Ecosystems](#12-platforms-ecosystems)
+  [Awesome Programming Languages](#13-awesome-programming-languages)
+[Computer Science & Software Engineering](#2-computer-science-software-engineering)
+[Programming Languages](#3-programming-languages)
+[Cybersecurity](#4-cybersecurity)
+  [Foundations & Entry Level](#41-foundations-entry-level)
+  [Reconnaissance & Information Gathering](#42-reconnaissance-information-gathering)
+  [Secure Development](#43-secure-development)
+  [Web Security](#44-web-security)
+  [JavaScript Reverse Engineering](#45-javascript-reverse-engineering)
+  [Java Security](#46-java-security)
+  [Web3 & Blockchain Security](#47-web3-blockchain-security)
+  [API Security](#48-api-security)
+  [Service & Middleware Security](#49-service-middleware-security)
+  [Mobile Application Security](#410-mobile-application-security)
+  [System Security](#411-system-security)
+  [Cloud Security](#412-cloud-security)
+  [Vulnerability Discovery & Exploitation](#413-vulnerability-discovery-exploitation)
+  [Code Auditing](#414-code-auditing)
+  [Privilege Escalation](#415-privilege-escalation)
+  [Evasion & Defense Bypass](#416-evasion-defense-bypass)
+  [Binary Modification & Repackaging](#417-binary-modification-repackaging)
+  [Weaponization & Tooling](#418-weaponization-tooling)
+  [Internal Network Security](#419-internal-network-security)
+  [Persistence Techniques](#420-persistence-techniques)
+  [Red Team & APT Operations](#421-red-team-apt-operations)
+  [Incident Response – Basic](#422-incident-response-basic)
+  [Incident Response – Advanced](#423-incident-response-advanced)
+  [Binary Reverse Engineering](#424-binary-reverse-engineering)
+  [Device & Infrastructure Deployment](#425-device-infrastructure-deployment)
+  [Traffic Analysis](#426-traffic-analysis)
+  [Rule & Signature Development](#427-rule-signature-development)
+  [Attribution & Counter-Operations](#428-attribution-counter-operations)
+  [SRC Programs](#429-src-programs)
+  [CTF Resources](#430-ctf-resources)
+[Artificial Intelligence & Data Science](#5-artificial-intelligence-data-science)
+[Developer Tools & Career Growth](#6-developer-tools-career-growth)
 
-- [Cybersecurity](#4-cybersecurity)
-  - [Foundations & Entry Level](#41-foundations--entry-level)
-  - [Reconnaissance & Information Gathering](#42-reconnaissance--information-gathering)
-  - [Secure Development](#43-secure-development)
-  - [Web Security](#44-web-security)
-  - [JavaScript Reverse Engineering](#45-javascript-reverse-engineering)
-  - [Java Security](#46-java-security)
-  - [Web3 & Blockchain Security](#47-web3--blockchain-security)
-  - [API Security](#48-api-security)
-  - [Service & Middleware Security](#49-service--middleware-security)
-  - [Mobile Application Security](#410-mobile-application-security)
-  - [System Security](#411-system-security)
-  - [Cloud Security](#412-cloud-security)
-  - [Vulnerability Discovery & Exploitation](#413-vulnerability-discovery--exploitation)
-  - [Code Auditing](#414-code-auditing)
-  - [Binary Reverse Engineering](#424-binary-reverse-engineering)
-  - [Privilege Escalation](#415-privilege-escalation)
-  - [Internal Network Security](#419-internal-network-security)
-  - [Persistence Techniques](#420-persistence-techniques)
-  - [Evasion & Defense Bypass](#evasion--defense-bypass)
-  - [Binary Modification & Repackaging](#binary-modification--repackaging)
-  - [Weaponization & Tooling](#weaponization--tooling)
-  - [Red Team & APT Operations](#red-team--apt-operations)
-  - [Traffic Analysis](#426-traffic-analysis)
-  - [Rule & Signature Development](#rule--signature-development)
-  - [Attribution & Counter-Operations](#attribution--counter-operations)
-  - [Incident Response – Basic](#incident-response--basic)
-  - [Incident Response – Advanced](#incident-response--advanced)
-  - [Device & Infrastructure Deployment](#device--infrastructure-deployment)
-  - [SRC Programs](#429-src-programs)
-  - [CTF Resources](#430-ctf-resources)
+---
 
-- [Artificial Intelligence & Data Science](#artificial-intelligence--data-science)
-- [Developer Tools & Career Growth](#developer-tools--career-growth)
 ---
 
 ## 1. Awesome Collections
@@ -89,7 +93,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - Applications and tools for Linux.
 - [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Free self-hosted web services and applications.
 - [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui) - Android UI/UX libraries and resources.
-- [Awesome iOS](https://github.com/vsouza/awesome-ios) - IOS libraries and frameworks.
+- [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS libraries and frameworks.
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker) - Docker tools and projects.
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - Kubernetes tools and resources.
 - [Awesome Electron](https://github.com/sindresorhus/awesome-electron) - Applications and tools built with Electron.
@@ -126,7 +130,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ## 2. Computer Science & Software Engineering
 
-#### 2.1 Comprehensive Learning Paths & Courses
+#### 2.1 2.1 Comprehensive Learning Paths & Courses
 
 - [OSSU Computer Science](https://github.com/ossu/computer-science) - A complete self-taught computer science curriculum from the open-source university community.
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmaps to become various types of developers, very comprehensive.
@@ -142,7 +146,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Professional Programming](https://github.com/charlax/professional-programming) - Resources to become a more professional programmer.
 - [What the f*ck Python!](https://github.com/satwikkansal/wtfpython) - Fun Python snippets to understand language details.
 
-#### 2.2 Algorithms & Data Structures
+#### 2.2 2.2 Algorithms & Data Structures
 
 - [The Algorithms - Python](https://github.com/TheAlgorithms/Python) - Python implementations of all algorithms.
 - [The Algorithms - Java](https://github.com/TheAlgorithms/Java) - Java implementations of all algorithms.
@@ -158,7 +162,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - Kunal Kushwaha’s data structures and algorithms bootcamp.
 - [Sedgewick-Algorithms](https://github.com/reneargento/algorithms-sedgewick-wayne) - Solutions from Sedgewick and Wayne's *Algorithms* book.
 
-#### 2.3 System Design & Architecture
+#### 2.3 2.3 System Design & Architecture
 
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design scalable systems; essential for interviews.
 - [Systems Design Cheatsheet](https://github.com/karanpratapsingh/system-design) - System design quick reference.
@@ -169,7 +173,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Architecture of Open Source Applications](http://aosabook.org/en/index.html) - Analysis of open-source application architectures.
 - [How-web-works](https://github.com/vasanthk/how-web-works) - Simple explanations of how the web works.
 
-#### 2.4 Software Engineering Practices & DevOps
+#### 2.4 2.4 Software Engineering Practices & DevOps
 
 - [Awesome SRE](https://github.com/dastergon/awesome-sre) - Site Reliability Engineering (SRE) resources.
 - [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - Software design pattern resources.
@@ -185,7 +189,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist for building secure APIs.
 - [Awesome Agile](https://github.com/lorabv/awesome-agile) - Agile software development resources.
 
-#### 2.5 Operating Systems & Low-Level Concepts
+#### 2.5 2.5 Operating Systems & Low-Level Concepts
 
 - [Awesome Operating Systems](https://github.com/jubalh/awesome-os) - Operating system development resources.
 - [Linux Kernel](https://github.com/torvalds/linux) - Source code.
@@ -193,14 +197,14 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Crafting Interpreters](https://github.com/munificent/craftinginterpreters) - Open-source version of *Crafting Interpreters*.
 - [Writing an OS in Rust](https://github.com/phil-opp/blog_os) - Blog series on building an OS in Rust.
 - [The little book about OS development](https://github.com/littleosbook/littleosbook) - A small book on OS development.
-- [xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - MIT’s teaching operating system xv6 for RISC-V.
+- [xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - MIT’s teaching OS xv6 for RISC-V.
 - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Classic operating systems textbook.
 - [Awesome-LLVM](https://github.com/HongxuChen/awesome-llvm) - LLVM-related resources.
 - [Linux-Insides](https://github.com/0xAX/linux-insides) - Deep dive into the Linux kernel.
 - [What Happens When You Type a URL in the Browser](https://github.com/alex/what-happens-when) - What happens after typing a URL in a browser.
 - [Awesome Networking](https://github.com/facyber/awesome-networking) - A curated list of computer networking tutorials, courses, books, and resources, covering everything from fundamentals to advanced network topics.
 
-#### 2.6 Databases
+#### 2.6 2.6 Databases
 
 - [Awesome Database](https://github.com/numetriclabz/awesome-db) - Database tools and resources.
 - [Awesome-Postgres](https://github.com/dhamaniasad/awesome-postgres) - PostgreSQL resources.
@@ -210,7 +214,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Database-Systems-Design-Implementation-and-Management](https://github.com/pingcap/awesome-database-learning) - Database learning resources.
 - [DB-Engines](https://db-engines.com/en/ranking) - Database popularity ranking.
 
-#### 2.7 Mathematics & Theoretical Foundations
+#### 2.7 2.7 Mathematics & Theoretical Foundations
 
 - [Awesome Mathematics](https://github.com/rossant/awesome-math) - Mathematics resources.
 - [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) - Cryptography resources.
@@ -219,7 +223,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Math-as-code](https://github.com/Jam3/math-as-code) - Cheat sheet for translating math formulas into code.
 - [Homotopy Type Theory](https://github.com/HoTT/book) - Book on homotopy type theory.
 
-#### 2.8 Miscellaneous & Others
+#### 2.8 2.8 Miscellaneous & Others
 
 - [Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode) - Unicode resources.
 - [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks) - Excellent technical talks.
@@ -240,24 +244,24 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ## 3. Programming Languages
 
-#### 3.1 Comprehensive Awesome Lists & Multi-Language Resources
+#### 3.1 3.1 Comprehensive Awesome Lists & Multi-Language Resources
 
 - [Learn X in Y Minutes](https://github.com/adambard/learnxinyminutes-docs) - Quick syntax introductions for dozens of languages.
 - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - Compare the same tasks across many programming languages.
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/) - Hands-on guide to building a Lisp interpreter in C.
 
-#### 3.2 Imperative & Procedural Languages
+#### 3.2 3.2 Imperative & Procedural Languages
 
 - **C** – [Awesome C](https://github.com/inputsh/awesome-c) - Libraries, tools, and best practices.
 - **COBOL** – [Awesome COBOL](https://github.com/loveOSS/awesome-cobol) - Enterprise and legacy system resources.
 - **Pascal** – [Free Pascal](https://www.freepascal.org/) - Compiler and documentation.
 - **Ada** – [AdaCore Learn](https://learn.adacore.com/) - Official tutorials and learning paths.
 
-#### 3.3 Object-Oriented Languages
+#### 3.3 3.3 Object-Oriented Languages
 
 - **Smalltalk** – [Pharo](https://pharo.org/) - Modern Smalltalk environment and tutorials.
 
-#### 3.4 Functional Languages
+#### 3.4 3.4 Functional Languages
 
 - **OCaml** – [OCaml](https://ocaml.org/) - Official documentation and learning guides.
 - **F#** – [F#](https://fsharp.org/) - Functional programming on .NET.
@@ -265,11 +269,11 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - **Erlang** – [Erlang](https://www.erlang.org/) - Concurrency-focused functional language.
 - **Elixir** – [Elixir](https://elixir-lang.org/) - Modern functional language on the BEAM VM.
 
-#### 3.5 Web & Modern Application Languages
+#### 3.5 3.5 Web & Modern Application Languages
 
 - **Dart** – [Dart](https://dart.dev/) - Official tutorials and Flutter ecosystem.
 
-#### 3.6 Systems, Data & Emerging Languages
+#### 3.6 3.6 Systems, Data & Emerging Languages
 
 - **Rust** – [Rust](https://www.rust-lang.org/) - Memory-safe systems programming resources.
 - **Go** – [Go](https://go.dev/) - Concurrency-oriented backend development tools.
@@ -280,7 +284,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - **Swift** – [Swift](https://swift.org/) - Apple ecosystem and server development.
 - **Kotlin** – [Kotlin](https://kotlinlang.org/) - JVM and Android development.
 
-#### 3.7 Domain-Specific & Specialized Languages
+#### 3.7 3.7 Domain-Specific & Specialized Languages
 
 - **Solidity** – [Solidity](https://soliditylang.org/) - Ethereum smart contract language.
 - **Vyper** – [Vyper](https://vyperlang.org/) - Pythonic smart contract language.
@@ -773,7 +777,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Helm-secrets](https://github.com/jkroepke/helm-secrets) - A plugin for managing secrets in Helm charts.
 - [Kyverno](https://github.com/kyverno/kyverno) - A policy engine designed for Kubernetes.
 - [OPA/Gatekeeper](https://github.com/open-policy-agent/gatekeeper) - A Kubernetes policy controller that uses Open Pol>.
-- [Kube-apiserver-attack](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v2/Section-4-Kubernetes-Se) - Kube-apiserver-attack.
+- [Kube-apiserver-attack](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v2/Section-4-Kubernetes-Se>
 - [ETCD-Security](https://etcd.io/docs/v3.5/op-guide/security/) - The official etcd security guide.
 - [Kubernetes-Goat](https://github.com/madhuakula/kubernetes-goat) - An intentionally vulnerable Kubernetes cluster for>.
 - [Kube-Linter](https://github.com/stackrox/kube-linter) - A static analysis tool for Kubernetes YAML files and Helm ch>.
@@ -839,7 +843,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Hell's Gate](https://github.com/am0nsec/HellsGate) - A PoC for bypassing EDR usin>.
 - [SharpBlock](https://github.com/gaasedelen/SharpBlock) - A tool to block EDR from >.
 - [Invisibility-Cloak](https://github.com/peewpw/Invoke-PSImage) - Encodes a PowerSh>.
-- [Unhooking-Patching-EDR-Bypass](https://github.com/TheD1rkMtr/Unhooking-Patching-E) - Unhooking-Patching-EDR-Bypass.
+- [Unhooking-Patching-EDR-Bypass](https://github.com/TheD1rkMtr/Unhooking-Patching-E>
 - [Reflective-DLL-Injection](https://github.com/stephenfewer/ReflectiveDLLInjection) - >.
 - [Process-Injection](https://github.com/s3cur3th1ssh1t/Process-Injection) - A colle>.
 - [Process-Hollowing](https://github.com/m0n0ph1/Process-Hollowing) - A PoC for the >.
@@ -867,7 +871,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ### 4.18 Weaponization & Tooling
 
-- [Metasploit's msfvenom](https://docs.metasploit.com/docs/using-metasploit/basics/how-to-u) - Metasploit's msfvenom.
+- [Metasploit's msfvenom](https://docs.metasploit.com/docs/using-metasploit/basics/how-to-u>
 - [Macro-Pack](https://github.com/sevagas/macro_pack) - A tool for automatically generating>.
 - [Unicorn](https://github.com/trustedsec/unicorn) - A tool for PowerShell downgrade attack>.
 - [HTA-Attack](https://github.com/trustedsec/unicorn/blob/master/unicorn.py) - Unicorn can >.
@@ -896,11 +900,11 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Persistence-Sniper](https://github.com/last-byte/Persistence-Sniper) - A PowerShell scri>.
 - [Python-for-Red-Teaming](https://github.com/nassiben/Red-Team-Python-Tooling) - Python to>.
 - [Schtasks-persistence](https://attack.mitre.org/techniques/T1053/005/) - Persistence usin>.
-- [WMI-Persistence](https://github.com/fireeye/SharPersist/blob/master/SharPersist/SharPers) - WMI-Persistence.
+- [WMI-Persistence](https://github.com/fireeye/SharPersist/blob/master/SharPersist/SharPers>
 - [Registry-RunKeys-Persistence](https://attack.mitre.org/techniques/T1547/001/) - Persiste>.
 - [DLL-Hijacking](https://github.com/KINGSABRI/DLL-Hijacking-Hunter) - DLL Hijacking Hunter.
 - [COM-Hijacking](https://github.com/tyranid/oleviewdotnet) - A .NET tool for viewing and d>.
-- [Powershell-Persistence-Cookbook](https://github.com/darkoperator/Posh-Sec-Mod/blob/maste) - Powershell-Persistence-Cookbook.
+- [Powershell-Persistence-Cookbook](https://github.com/darkoperator/Posh-Sec-Mod/blob/maste>
 
 ---
 
@@ -1483,7 +1487,7 @@ This section covers resources, tools, and methodologies specifically for partici
 
 ## 5. Artificial Intelligence & Data Science
 
-#### 5.1 Comprehensive Awesome Lists & Repositories
+#### 5.1 5.1 Comprehensive Awesome Lists & Repositories
 
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A comprehensive list of machine learning frameworks, libraries, and software.
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A collection of deep learning tutorials, projects, and communities.
@@ -1499,12 +1503,12 @@ This section covers resources, tools, and methodologies specifically for partici
 - [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle) - Collection of deep learning resources.
 - [Hugging Face](https://huggingface.co/) - AI community providing models, datasets, and tools.
 
-#### 5.2 Machine Learning & Deep Learning Frameworks
+#### 5.2 5.2 Machine Learning & Deep Learning Frameworks
 
 - [TensorFlow](https://github.com/tensorflow/tensorflow) - End-to-end open-source machine learning platform by Google.
 - [PyTorch](https://github.com/pytorch/pytorch) - Open-source ML framework by Meta, known for flexibility and dynamic computation.
 - [Keras](https://github.com/keras-team/keras) - High-level neural networks API, compatible with TensorFlow, PyTorch, and more.
-- [scikit-learn](https://github.com/scikit-learn/scikit-learn) - Popular library for classical ML in Python.
+- [Scikit-learn](https://github.com/scikit-learn/scikit-learn) - Popular library for classical ML in Python.
 - [JAX](https://github.com/google/jax) - High-performance numerical computing library from Google, NumPy compatible.
 - [MXNet](https://github.com/apache/mxnet) - Deep learning framework by Apache.
 - [Caffe](https://github.com/BVLC/caffe) - Deep learning framework developed by Berkeley AI Research.
@@ -1517,7 +1521,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [TFLearn](https://github.com/tflearn/tflearn) - Modular deep learning library built on TensorFlow.
 - [Sonnet](https://github.com/deepmind/sonnet) - Neural network library by DeepMind, built on TensorFlow.
 
-#### 5.3 Large Language Models (LLM) & AIGC
+#### 5.3 5.3 Large Language Models (LLM) & AIGC
 
 - [n8n](https://github.com/n8n-io/n8n) - Open-source workflow automation with AI nodes.
 - [Langflow](https://github.com/langflow-ai/langflow) - Visual builder for designing and deploying LLM applications.
@@ -1552,7 +1556,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Modular node-based GUI for Stable Diffusion.
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - Minimal but powerful Stable Diffusion software.
 
-#### 5.4 Computer Vision (CV)
+#### 5.4 5.4 Computer Vision (CV)
 
 - [OpenCV](https://github.com/opencv/opencv) - Open-source computer vision library.
 - [YOLO (You Only Look Once)](https://github.com/ultralytics/yolov5) - Real-time object detection algorithm (v5 version).
@@ -1567,7 +1571,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [Face-recognition](https://github.com/ageitgey/face_recognition) - Simplest Python library for face recognition.
 - [MediaPipe](https://github.com/google/mediapipe) - Google cross-platform ML solutions for real-time streaming.
 
-#### 5.5 Natural Language Processing (NLP)
+#### 5.5 5.5 Natural Language Processing (NLP)
 
 - [NLTK](https://github.com/nltk/nltk) - Leading Python toolkit for human language data processing.
 - [SpaCy](https://github.com/explosion/spaCy) - Industrial-grade NLP library for production.
@@ -1578,7 +1582,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [TextBlob](https://github.com/sloria/TextBlob) - Simplified text processing library in Python.
 - [CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Stanford Java NLP toolkit.
 
-#### 5.6 Data Processing & Visualization
+#### 5.6 5.6 Data Processing & Visualization
 
 - [Pandas](https://github.com/pandas-dev/pandas) - Powerful Python library for data manipulation and analysis.
 - [NumPy](https://github.com/numpy/numpy) - Fundamental package for scientific computing in Python.
@@ -1596,7 +1600,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [Apache Arrow](https://github.com/apache/arrow) - Cross-language development platform for in-memory data.
 - [Polars](https://github.com/pola-rs/polars) - Fast DataFrame library written in Rust.
 
-#### 5.7 MLOps & Data Engineering
+#### 5.7 5.7 MLOps & Data Engineering
 
 - [MLflow](https://github.com/mlflow/mlflow) - Open-source platform for managing the end-to-end ML lifecycle.
 - [Kubeflow](https://github.com/kubeflow/kubeflow) - Toolkit for running ML on Kubernetes.
@@ -1614,7 +1618,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [Trino](https://github.com/trinodb/trino) - Distributed SQL query engine for big data analytics.
 - [Delta Lake](https://github.com/delta-io/delta) - Storage layer bringing ACID transactions to data lakes.
 
-#### 5.8 AI Security & Explainability
+#### 5.8 5.8 AI Security & Explainability
 
 - [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Python library for ML security.
 - [CleverHans](https://github.com/cleverhans-lab/cleverhans) - Library for benchmarking adversarial attacks on ML systems.
@@ -1631,7 +1635,7 @@ This section covers resources, tools, and methodologies specifically for partici
 
 ## 6. Developer Tools & Career Growth
 
-#### 6.1 Comprehensive Awesome Lists & Resource Libraries
+#### 6.1 6.1 Comprehensive Awesome Lists & Resource Libraries
 
 - [Awesome Dev Env](https://github.com/jondot/awesome-dev-env) - A comprehensive list of development environment resources.
 - [Awesome Developer Tools](https://github.com/goabstract/awesome-developer-tools) - A collection of various developer tools.
@@ -1641,7 +1645,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [Awesome-Newsletters](https://github.com/zudochkin/awesome-newsletters) - (Duplicate) Valuable tech newsletters.
 - [Developer-Health](https://github.com/zen-pro/awesome-developer-health) - Developer health resources.
 
-#### 6.2 Code Editors & IDEs
+#### 6.2 6.2 Code Editors & IDEs
 
 - [Claude Code](https://github.com/anthropics/claude-code) - Official AI coding CLI tool by Anthropic.
 - [Zed](https://github.com/zed-industries/zed) - A high-performance code editor created by the founders of Atom.
@@ -1661,7 +1665,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [Helix](https://github.com/helix-editor/helix) - Post-modern text editor inspired by Kakoune/Neovim, written in Rust.
 - [OniVim 2](https://github.com/onivim/oni2) - (Archived) Editor combining Vim and VS Code features.
 
-#### 6.3 Terminals & Shells
+#### 6.3 6.3 Terminals & Shells
 
 - [Alacritty](https://github.com/alacritty/alacritty) - (Duplicate) Cross-platform GPU-accelerated terminal emulator.
 - [WezTerm](https://github.com/wez/wezterm) - Rust-based GPU-accelerated cross-platform terminal and multiplexer.
@@ -1689,7 +1693,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [Cheat.sh](https://github.com/chubin/cheat.sh) - Unified community-driven cheat sheets.
 - [Awesome-CLI-Apps](https://github.com/agarrharr/awesome-cli-apps) - (Duplicate) Excellent command-line applications.
 
-#### 6.4 Git & Version Control
+#### 6.4 6.4 Git & Version Control
 
 - [Git](https://github.com/git/git) - Distributed version control system.
 - [Pro Git](https://github.com/progit/progit2) - The official *Pro Git* 2nd edition book.
@@ -1707,7 +1711,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [Git-LFS (Large File Storage)](https://github.com/git-lfs/git-lfs) - Git extension for large file storage.
 - [Delta](https://github.com/dandavison/delta) - Viewer for Git and diff output.
 
-#### 6.5 Documentation & Knowledge Management
+#### 6.5 6.5 Documentation & Knowledge Management
 
 - [Docusaurus](https://github.com/facebook/docusaurus) - Easy-to-maintain open-source documentation websites by Facebook.
 - [MkDocs](https://github.com/mkdocs/mkdocs) - Fast, simple, beautiful static site generator for project docs.
@@ -1724,7 +1728,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [Diataxis Framework](https://diataxis.fr/) - Systematic framework for technical documentation.
 - [Write the Docs](https://www.writethedocs.org/) - Global community focused on documentation and writers.
 
-#### 6.6 Career Growth & Soft Skills
+#### 6.6 6.6 Career Growth & Soft Skills
 
 - [Refactoring Guru](https://refactoring.guru/) - Visual learning site for design patterns, refactoring, and SOLID principles.
 - [Staff Engineer](https://staffeng.com/) - Stories and lessons for Staff+ engineers.
@@ -1742,7 +1746,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [You-are-not-a-visual-learner](https://www.youtube.com/watch?v=rhgwIhB58PA) - Discussion on learning methodologies.
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) - Popular Coursera course on learning strategies.
 
-#### 6.7 Other Practical Tools
+#### 6.7 6.7 Other Practical Tools
 
 - [Docker](https://github.com/docker/cli) - (Duplicate) Application containerization platform.
 - [Kubernetes](https://github.com/kubernetes/kubernetes) - (Duplicate) Container orchestration system.
